@@ -1,0 +1,1635 @@
+
+{
+  "departments": [
+    {
+      
+  "id": "cse",
+  "name": "Computer Science & Engineering",
+  "shortName": "CSE",
+  "description": "The Department of Computer Science and Engineering, established in 2007, offers B.E., M.E., and Ph.D. programmes, with the B.E. CSE NBA accredited and the department recognized by Anna University as a permanent Research Centre. Strong industry collaborations with IBM, Google for Education, Zoho, Infosys Springboard, Cognizant GenC, and Wipro PRP, along with active engagement in MOOC platforms such as Coursera, edX, and NPTEL, support skill development and lifelong learning.",
+  "icon": "Monitor",
+  "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "vision": "To nurture competent Computer Science Engineers who possess the ability to contribute to global projects and collaborations with an emphasis on fostering innovation, research, and development through the pursuit of academic excellence and high standards of teaching and research focusing on ethical conduct and social responsibility, integrating sustainability principles and instill a passion lifelong learning.",
+  "mission": [
+    "MD1: To deliver Academic Excellence through the implementation of outcome-based education, extensive research, and the adoption of innovative practices.",
+    "MD2: To provide best practical experience through Interdisciplinary Approach, Industrial Collaborations and State-of-the-Art Facilities.",
+    "MD3: To produce socially responsible engineering graduates by providing them with value-based education and fostering their continuous professional development."
+  ],
+
+      "programs": [
+        {
+          "name": "B.E Computer Science & Engineering",
+          "duration": "4 Years",
+          "intake": "180 Students",
+          "eligibility": "10+2 with PCM"
+        },
+        {
+          "name": "M.E Computer Science & Engineering",
+          "duration": "2 Years",
+          "intake": "24 Students",
+          "eligibility": "B.Tech CSE/IT, GATE,TANCET"
+        },
+        {
+          "name": "Ph.D Computer Science & Engineering",
+          "duration":"4 Years",
+          "eligibility": "M.Tech/M.E, NET/GATE"
+        }
+      ],
+      "specializations": ["Artificial Intelligence", "Machine Learning", "Cybersecurity", "Data Science", "Cloud Computing", "IoT"],
+      "facilities": ["Networks and Simulations Laboratory", "RDBMS Laboratory", "Project Laboratory", "Mobile Application Development Laboratory", "PG Research Laboratory"],
+      "facilitiesDetails": [
+        {
+          "id": 1,
+          "name": "AI & Machine Learning Lab",
+          "description": "State-of-the-art laboratory equipped with high-performance GPUs and advanced computing infrastructure for AI research and development.",
+          "image": "/facilites&infrastructures/AI & machine learning.webp",
+          "capacity": "50 Students",
+          "features": ["NVIDIA Tesla GPUs", "High-speed Computing", "Research Workstations"],
+          "category": "Research Lab"
+        },
+        {
+          "id": 2,
+          "name": "Robotics Workshop",
+          "description": "Advanced robotics facility with robotic arms, sensors, and automation equipment for hands-on learning.",
+          "image": "/facilites&infrastructures/robotic workshop.jpeg",
+          "capacity": "30 Students",
+          "features": ["Robotic Arms", "Sensor Networks", "Prototyping Tools"],
+          "category": "Workshop"
+        },
+        {
+          "id": 3,
+          "name": "Cloud Computing Center",
+          "description": "Modern cloud infrastructure lab with access to major cloud platforms and enterprise-level computing resources.",
+          "image": "/facilites&infrastructures/cloud computing.jpeg",
+          "capacity": "60 Students",
+          "features": ["AWS Access", "Azure Platform", "Google Cloud"],
+          "category": "Computing Center"
+        },
+        {
+          "id": 4,
+          "name": "High Performance Computing Lab",
+          "description": "Supercomputing facility for complex simulations, data analysis, and computational research projects.",
+          "image": "/facilites&infrastructures/high performance lab.webp",
+          "capacity": "40 Students",
+          "features": ["Parallel Processing", "Cluster Computing"],
+          "category": "Research Lab"
+        },
+        {
+          "id": 5,
+          "name": "Innovation & Incubation Center",
+          "description": "Dedicated space for student startups and entrepreneurship development with mentoring and prototyping tools.",
+          "image": "/facilites&infrastructures/innovatiion lab.jpeg",
+          "capacity": "20 Startups",
+          "features": ["3D Printers", "Prototyping Tools"],
+          "category": "Incubation"
+        },
+        {
+          "id": 6,
+          "name": "Digital Library & Learning Commons",
+          "description": "Modern digital library with extensive e-resources, collaborative spaces, and advanced learning technologies.",
+          "image": "/facilites&infrastructures/library.jpg",
+          "capacity": "200 Students",
+          "features": ["E-books", "Research Databases", "Study Pods"],
+          "category": "Library"
+        }
+      ],
+      "psos": [
+        {
+          "id": "PSO1",
+          "description": "Ability to apply programming skills in various languages and implement algorithms and data structures to solve computational challenges."
+        },
+        {
+          "id": "PSO2",
+          "description": "Ability to design, develop, test, and integrate software and hardware components to construct effective and efficient computer-based systems."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "",
+          "description": "Graduates will demonstrate proficiency in core computer science concepts, theories, and principles to analyze, design, and develop innovative solutions to complex engineering problems to succeed in diverse computing industry sectors adapting to emerging technological trends."
+        },
+        {
+          "id": "PEO2",
+          "title": "",
+          "description": "Graduates will uphold high ethical standards and demonstrate social responsibility in their engineering practice, function effectively in multidisciplinary teams to collaborate and achieve common goals and engage in continuous learning and professional development."
+        },
+        {
+          "id": "PEO3",
+          "title": "",
+          "description": "Graduates will exhibit an entrepreneurial mindset, actively pursuing opportunities to develop innovative computer science solutions, services, and products as well as effectively lead and manage projects in the field."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "ENGINEERING KNOWLEDGE",
+          "description": "Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization applicable to computer science and engineering discipline to develop to the solution of complex engineering problems."
+        },
+        {
+          "id": "PO2",
+          "title": "PROBLEM ANALYSIS",
+          "description": "Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development."
+        },
+        {
+          "id": "PO3",
+          "title": "DESIGN /DEVELOPMENT OF SOLUTIONS",
+          "description": "Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required."
+        },
+        {
+          "id": "PO4",
+          "title": "CONDUCT INVESTIGATION OF COMPLEX PROBLEMS",
+          "description": "Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, analysis & interpretation of data to provide valid conclusions."
+        },
+        {
+          "id": "PO5",
+          "title": "ENGINEERING TOOL USAGE",
+          "description": "Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction & modeling to recognize their limitations to solve complex engineering problems."
+        },
+        {
+          "id": "PO6",
+          "title": "THE ENGINEER AND THE WORLD",
+          "description": "Analyze and evaluate societal and environmental aspects while solving complex engineering problems for sustainability with reference to economy, health, safety, legal framework, culture and ethics."
+        },
+        {
+          "id": "PO7",
+          "title": "ETHICS",
+          "description": " Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws."
+        },
+        {
+          "id": "PO8",
+          "title": "INDIVIDUAL AND COLLABORATIVE TEAM WORK",
+          "description": " Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams."
+        },
+        {
+          "id": "PO9",
+          "title": "COMMUNICATION",
+          "description": " Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences."
+        },
+        {
+          "id": "PO10",
+          "title": "PROJECT MANAGEMENT AND FINANCE",
+          "description": "Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments."
+        },
+        {
+          "id": "PO11",
+          "title": "LIFE LONG LEARNING:",
+          "description": " Recognize the need for, and have the preparation and ability for i) Independent and life-long learning ii) adaptability to new and emerging technologies and iii)critical thinking in the broadest context of technological change. "
+        }
+      ],
+      
+    
+
+  "faculty": [
+  {
+    "id": 1,
+    "image": "/images/HOD.jpg",
+    "name": "Dr.A.Jameer Basha ",
+    "designation": "Professor",
+    "specialization": "Machine learning, Deep learning, and Generative AI.",
+    "experience": "19+ years",
+    "education": "Ph.D,M.Tech",
+    "email": "jameer@hit.edu.in",
+    "date_of_joining": "2018-07-02",
+    "patents": 5,
+    "publications": 30,
+    "description": "Professor and Head of Computer Science and Engineering He completed his Ph.D. in Faculty of Information and Communication Engineering from Anna University and has been passionate about Information and Communication Engineering since his undergraduate years. Expertise: His research focuses mostly on machine learning, deep learning, and generative AI. His area of expertise is the classification and analysis of medical images. He presented her findings at national and international conferences and published many peer-reviewed pieces in prestigious journals. Research Interests: His current research projects include assessing the vulnerability of endangered species to climate change, modeling the distribution of invasive species in urban areas, and evaluating the effectiveness of community-based conservation. Teaching Philosophy: He works to develop an inclusive learning environment in the classroom that promotes critical thinking and problem-solving abilities. He thinks that debates, practical assignments, and application of course principles in the real world are the greatest ways for students to learn. He dedicated to assisting my students in understanding their responsibility for protecting it and cultivating a profound appreciation for it."
+  },
+  {
+    "id": 2,
+    "image": "/images/Dr. N.B. Mahesh Kumar .jpg",
+    "name": "Dr.N.B.Mahesh Kumar ",
+    "designation": "Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "18+ years",
+    "education": "Ph.D,M.E",
+    "email": "maheshkumar.nb@hit.edu.in",
+    "date_of_joining": "2023-07-05",
+    "patents": 16,
+    "publications": 45,
+    "description": "He is working as Associate Professor, Department of Computer Science and Engineering in Hindusthan Institute of Technology, Valley Campus, Pollachi Highway, Coimbatore. He has more than 7 years of experience in teaching and 10 years of experience in research. He pursed his Ph.D. Degree (2016) in Computer science and Engineering, Anna University, Chennai. He received M.E. (2009) in Computer science and Engineering form Sri Krishna College of Engineering and Technology, Coimbatore. He received his B.Tech. (2005) in Information Technology form M.Kumarasamy College of Engineering, Karur. He has published more than 31 research papers in various National, International conferences and reputed journals and acting as reviewer in reputed journals. His main area of research interest include Machine Learning, Image Processing and Data Science"
+  },
+  {
+    "id": 3,
+    "image": "/images/Ramasamy.jpg",
+    "name": "Dr.S.Ramasamy",
+    "designation": "Associate Professor",
+    "specialization": "Cloud Computing",
+    "experience": "17+ years",
+    "education": "Ph.D,M.E",
+    "email": "ramasamy.s@hit.edu.in",
+    "date_of_joining": "2021-06-28",
+    "patents": 0,
+    "publications": 0,
+    "description": "Dr. S. Ramasamy M.E., Ph.D., currently working as Associate Professor in Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore. He holds Ph.D in Computer Science and Engineering from Anna University, Master of Engineering in Computer Science and Engineering from Anna University of Technology, Coimbatore and Bachelor of Technology in Information Technology from Anna University. He is having more than 14 years of experience in academic, administration, research and innovations. He has published more than 14 research papers in national and international journals. He has published 2 books. He is an active reviewer in Springer Nature Journal. He is a life member of ISTE. His research interest includes Cloud Computing, Edge Computing, Bigdata Security, Wireless Communication."
+  },
+  {
+    "id": 4,
+    "image": "/images/subhalakshmi.jpg",
+    "name": "Dr.R.T.Subhalakshmi ",
+    "designation": "Associate Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "13+ years",
+    "education": "Ph.D,M.Tech",
+    "email": "subhalakshmi.rt@hit.edu.in",
+    "date_of_joining": "2021-10-20",
+    "patents": 5,
+    "publications": 10,
+    "description": "She completed her Ph.D. in the Faculty of Information and Communication Engineering from Anna University and has been passionate about Information and Communication Engineering since her undergraduate years. Expertise: Her research primarily centers on the Medical Image Analysis, Deep Learning and Machine Learning. She specializes in using medical image classification and analyzing medical images. She published several peer-reviewed articles in leading journals and has presented her work at national and international conferences. Research Interests: Her research focuses mostly on machine learning, deep learning, and generative AI. She uses image categorization and analysis as his area of expertise. She presented her findings at national and international conferences and published many peer-reviewed pieces in prestigious journals. Teaching Philosophy: She works to build inclusive, engaging learning environments in the classroom that promote critical thinking and problem-solving abilities. She thinks that debates, practical assignments, and application of course principles in the real world are the greatest ways for students to learn. She pledged to work with my kids to foster a profound respect of the image classification and an understanding of their responsibility to conserve it."
+  },
+  {
+    "id": 5,
+    "image": "/images/senthilkumar.jpg",
+    "name": "Dr.R.Senthil Kumar ",
+    "designation": "Associate Professor",
+    "specialization": "IoT Technology and AI with Machine Learning Techniques",
+    "experience": "15+ years",
+    "education": "Ph.D,M.Tech",
+    "email": "senthilkumar.rsk@hit.edu.in",
+    "date_of_joining": "2022-07-05",
+    "patents": 0,
+    "publications": 3,
+    "description": "He completed his Ph.D. in the Faculty of Information and Communication Engineering from Anna University Chennai in the year 2023. He received his B.Tech (IT) Degree from Christian College of Engineering and Technology, Oddanchatram, in the year 2006 and M.E in the specialization of Computer and Communication from Pavendar Bharathidasan College of Engineering and Technology, Affiliated to Anna University, Tiruchirappalli in 2010. He has more than 13 years of teaching experience from various reputed Engineering colleges in Tamilnadu. EXPERTISE: His research AI, IoT, Deep Learning and Machine Learning. He specializes in using IoT Technology and AI with Machine Learning Techniques. He published several peer-reviewed articles in leading journals and has presented her work at national and international conferences. RESEARCH INTERESTS: Data Science, AI with Machine Learning Techniques, IoT TEACHING PHILOSOPHY: He works to build inclusive, engaging learning environments in the classroom that promote critical thinking and problem-solving abilities. He thinks that debates, practical assignments, and application of course principles in the real world are the greatest ways for students to learn. He pledged to work with my kids to foster a profound respect of the image classification and an understanding of their responsibility to conserve it."
+  },
+
+  {
+    "id": 6,
+    "image": "/images/vidhya D.jpg",
+    "name": "Mrs.D.Vidhya ",
+    "designation": "Assistant Professor",
+    "specialization": "Machine Learning ",
+    "experience": "11+ years",
+    "education": "Ph.D,M.E",
+    "email": "vidhya.d@hit.edu.in",
+    "date_of_joining": "2017-08-07",
+    "patents": 1,
+    "publications": 1,
+    "description": "Dr. D.Vidhya, currently working as Assistant Professor in Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore. She holds Master of Engineering in Computer Science and Engineering from Anna University of Technology, Coimbatore and Bachelor of Engineering in Electrical and Electronics Engineering from Bharathiyar University. She is having more than 13 years of experience in academic. She got a ellite in NPTEL course.He is a life member of ISTE. Her research interest includes Cloud Computing, Machine Learning."
+  },
+  {
+    "id": 7,
+    "image": "/images/banupriya.jpg",
+    "name": "Mrs.M.Banupriya ",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "9+ years",
+    "education": "Ph.D,M.E",
+    "email": "banupriya.m@hit.edu.in",
+    "date_of_joining": "2018-07-16",
+    "patents": 2,
+    "publications": 4,
+    "description": "Mrs. M. Banupriya has over 9 years of teaching and research experience in the field of Computer Science and Engineering. Mrs. M. Banupriya doing her Ph.D. and completed M.E. in Computer Science and Engineering and has been serving as an Assistant Professor at Hindusthan Institute of Technology since 2018. Mrs. M. Banupriya has published research papers in reputed journals and conferences and holds multiple patents, reflecting strong contributions to academic research and innovation."
+ },
+  {
+    "id": 8,
+    "image": "/images/rajaprabha.jpg",
+    "name": "Mrs.C.E.Rajaprabha",
+    "designation": "Assistant Professor",
+    "specialization": "Networks and Artificial Intelligence",
+    "experience": "7+ years",
+    "education": "Ph.D,M.E",
+    "email": "rajaprabha.ce@hit.edu.in",
+    "date_of_joining": "2019-06-20",
+    "patents": 2,
+    "publications": 4,
+    "description": "Mrs. C.E. Rajaprabha is an Assistant Professor with 4 years of experience, specializing in Networks and Artificial Intelligence. She holds a Ph.D. and M.E., and has published 4 research papers and holds 2 patents. Since joining in 2022, she has actively contributed to research, teaching, and mentoring in emerging technologies."
+  },
+  {
+    "id": 9,
+    "image": "/images/NIshanandhini.jpg",
+    "name": "Mrs.A.Nishanandhini",
+    "designation": "Assistant Professor",
+    "specialization": "Networks",
+    "experience": "9+ years",
+    "education": "M.E",
+    "email": "nishanandhini.a@hit.edu.in",
+    "date_of_joining": "2021-07-05",
+    "patents": 0,
+    "publications": 2,
+    "description": "Ms. A. Nishanandhini has over 9 years of academic experience, having worked at Hindusthan College of Engineering and Technology and currently at Hindusthan Institute of Technology. She completed her Postgraduate degree (M.E. in Computer Science and Engineering) from Karpagam University, and her Undergraduate degree (B.Tech. in Information Technology) from PPG Institute of Technology, both affiliated with Anna University. Her specialization is in Networks, and her areas of interest include AI-powered public service navigation, hybrid AI models, and intelligent disease surveillance systems. She has published 2 research papers in international journals including JAICS and IJCESEN, and has presented at international conferences such as the ICAICCIT and the TESS conference at Taylor’s University. She is a co-author of the book Cloud Computing: Next Generation Virtual Infrastructure, published by AASAN Publications. She has participated in multiple FDPs and seminars on AI, cloud infrastructure, and data science. She is also a member of IAENG. Currently, she serves as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 10,
+    "image": "/images/sureshkumar.jpg",
+    "name": "Mr.P.Suresh Kumar ",
+    "designation": "Assistant Professor",
+    "specialization": "Cloud Computing",
+    "experience": "19+ years",
+    "education": "Ph.D,M.E",
+    "email": "psureshkumar2007@gmail.com",
+    "date_of_joining": "2021-07-19",
+    "patents": 0,
+    "publications": 8,
+    "description": "Mr. P. Suresh Kumar has over 16 years of academic experience, having served at institutions such as Hindusthan Institute of Technology, Dhanalakshmi Srinivasan College of Engineering, Muthayammal Engineering College, and Sri Ramakrishna Engineering College. He also has 3 years and 7 months of experience in the industry as a Project Engineer at PSG College of Technology. He completed his Postgraduate degree (M.E. in Computer Science and Engineering) from Anna University of Technology, Coimbatore, and his Undergraduate degree (B.E. in Computer Science and Engineering) from V.L.B. Janakiammal Engineering and Technology, both under Anna University. His specialization is in Cloud Computing, and his areas of interest include IoT systems, AI-based solutions for smart agriculture, and water quality monitoring. He has published 4 research papers in UGC-listed journals, addressing topics like hydroponics, AI cosmetics, and environmental monitoring. He has also organized and attended various workshops, seminars, and training programs, and guided students to participate in events like the Smart India Hackathon. He is a life member of several professional bodies including CSI, ISTE, IAENG, IACSIT, ICSES, AICTSD, and a professional member of IFERP. Currently, he is working as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 11,
+    "image": "/images/devendran.jpg",
+    "name": "Mr.M.Devendran ",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "16+ Years",
+    "education": "M.E",
+    "email": "md.devendran@gmail.com",
+    "date_of_joining": "2022.04.08",
+    "patents": 5,
+    "publications": 3,
+    "description": "He is having more than 15 years of Teaching Experience in the field of Computer Science and Engineering. He received his Master Degree from Anna University, Thirnelveli from Thiagararajar College of engineering.. and also completed his Received B.Tech(IT) Degree of Madurai Kamaraj University from P.S.N.A College of engineering and technology . He has published more than 20 papers in various international journals and conferences. He has also published than 1 patent."
+  },
+  {
+    "id": 12,
+    "image": "/images/murugan.jpg",
+    "name": "Mr.K.Murugan",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "25+ years",
+    "education": "M.E",
+    "email": "mururgan.k@hit.edu.in",
+    "date_of_joining": "2022-04-08",
+    "patents": 1,
+    "publications": 8,
+    "description": "Mr. K. Murugan has over 22 years of academic experience, having worked at institutions such as Hindusthan Institute of Technology, Sri Ganesh College of Engineering and Technology, Mailam Engineering College, and various polytechnic colleges. He completed his Postgraduate degree (M.E. in Computer Science and Engineering) from Mailam Engineering College and also holds a Master's degree in Computer Applications (MCA) from the University of Madras. His Undergraduate degree (B.Sc. in Mathematics) was completed at AVC College under Bharathidasan University. His specialization is in Computer Science and Engineering, and his areas of interest include temporal databases, semantic grammar in query processing, IoT-based automation, and AI-integrated systems. He has published 8 research papers in international journals and presented at national and international conferences, with notable work in natural language processing and IoT applications. He co-authored the book “Python Programming for Data Science,” published by Charulatha Publications, and holds a patent. He is a lifetime member of ISTE and currently serves as an Associate Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 13,
+    "image": "/images/uma maheshwar.jpg",
+    "name": "Ms.P.Uma Maheswari ",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "7+ years",
+    "education": "M.E",
+    "email": "umamaheshwari.p@hit.edu.in",
+    "date_of_joining": "2022-07-15",
+    "patents": 3,
+    "publications": 1,
+    "description": "Ms. P. Umamaheswari has over 6 years and 8 months of academic experience, having worked at Hindusthan Institute of Technology, Dhanalakshmi Srinivasan College of Engineering, and Karpagam Institute of Technology. She completed her Postgraduate degree (M.E. in Computer Science and Engineering) from Thiagarajar College of Engineering and her Undergraduate degree (B.E. in Computer Science and Engineering) from Sri Subramanya College of Engineering and Technology, both under Anna University. Her specialization is in Computer Science and Engineering, and her areas of interest include quantum computing, neuro-inspired machine learning, and intelligent adaptive education systems. She has published one research paper in the International Journal of Computational and Experimental Science and Engineering, presented at an international conference (TESS-2023, Taylor’s University, Malaysia), and attended FDPs and training programs on generative AI and cybersecurity. She holds three patents related to AI-driven automotive safety, robotic systems for medical applications, and adaptive learning using quantum computing. She is a lifetime member of IAENG and ISTE. Currently, she is serving as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore.."
+  },
+  {
+    "id": 14,
+    "image": "/images/priyanka.jpeg",
+    "name": "Mrs.V.Priyanka",
+    "designation": "Assistant Professor",
+    "specialization": "AIML , Networks",
+    "experience": "3+ year",
+    "education": "M.E",
+    "email": "connectpriya23@gmail.com",
+    "date_of_joining": "2023-06-12",
+    "patents": 0,
+    "publications": 5,
+    "description": "Ms. V. Priyanka has 11 months of academic experience, having worked as an Assistant Professor at Rathinam Technical Campus. She completed her Postgraduate degree (M.E. in Computer Science and Engineering with a specialization in IoT) from Sri Eshwar College of Engineering and her Undergraduate degree (B.E. in Computer Science and Engineering with a specialization in Networks) from SVS College of Engineering, both affiliated with Anna University. Her specialization includes Artificial Intelligence, Machine Learning, and Networks, and her areas of interest involve query reconstruction, federated learning, and secure AI model training. She has published five research papers in reputed journals such as IJAEART, Journal of Algebraic Statistics, and IJCESEN, and presented at four international and one national conference. She has co-authored two books, titled “Neural Network and Deep Learning” and “Blockchain Technologies.” She also holds one patent and is a member of professional bodies including IFERP and ISTE. Currently, she is serving as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 15,
+    "image": "/images/sathish.jpeg",
+    "name": "Mr.S.Sathishkumar",
+    "designation": "Assistant Professor",
+    "specialization": "ML, Full-stack Development, Generative AI ",
+    "experience": "12+ years",
+    "education": "M.E/M.Tech",
+    "email": "skumarscse@gmail.com",
+    "date_of_joining": "2023-07-03",
+    "patents": 0,
+    "publications": 0,
+    "description": "Mr. S. Sathish Kumar has 11 years of experience, including 10 years in academia and over a year in industry. He is currently pursuing a Ph.D. in Computer Science and Engineering at Bharath University. He completed his M.E. in CSE from Sri Krishna Engineering College and B.E. in CSE from KSR College of Engineering, both under Anna University. His specialization includes Machine Learning, Full-Stack Web Development, Generative AI, Prompt Engineering, Data Science, and Analytics. His areas of interest cover electric vehicle optimization, healthcare analytics, and secure AI applications. He has published 3 journal papers, presented 6 papers at international conferences, and attended over 20 FDPs, STTPs, and workshops. He is a member of ISRD, IAENG, and IFERP, and currently serves as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 16,
+    "image": "/images/udhayakumar j.jpg",
+    "name": "Mr.T.Udhayakumar",
+    "designation": "Assistant Professor",
+    "specialization": "Internet of Things ",
+    "experience": "13+ years",
+    "education": "M.E",
+    "email": "udhayakumar.t@hit.edu.in",
+    "date_of_joining": "2024-06-24",
+    "patents": 0,
+    "publications": 4,
+    "description": "Mr. T. Udhayakumar, Assistant Professor specializing in the Internet of Things, has 13 years of experience. Holding an M.E., he joined in 2004. With four publications, he is dedicated to advancing research and teaching in emerging technologies within his academic field."
+  },
+  {
+    "id": 17,
+    "image": "/images/jayaprakash.jpg",
+    "name": "Mr.S.Jayaprakash ",
+    "designation": "Assistant Professor",
+    "specialization": "Networks,DBMS",
+    "experience": "12+ years",
+    "education": "M.E",
+    "email": "jayaprakash.s@hit.edu.in",
+    "date_of_joining": "2024-06-24",
+    "patents": 0,
+    "publications": 1,
+    "description": "Mr. S. Jayaprakash has over 11 years and 7 months of academic experience, having worked at P.A. Polytechnic College as a Lecturer and Senior Lecturer and currently serving as an Assistant Professor at Hindusthan Institute of Technology. He completed his Postgraduate degree (M.E. in Computer Science and Engineering) from Kalaignar Karunanidhi Institute of Technology and his Undergraduate degree (B.Tech. in Information Technology) from Maharaja Institute of Technology, both affiliated with Anna University. His specialization is in Networking and Database Management Systems, and his areas of interest include IoT-based security systems, privacy-preserving mechanisms, and cloud infrastructure. He has published two research papers in international journals, including the Journal of Semiconductor Opto Electronics and Applied Mathematics & Information Sciences. He also presented a paper at the International Conference on Recent Advances in Economics, Finance, Management & Technology at CMR University. He is a co-author of the book “Cloud Computing: Next Generation Virtual Infrastructure,” published by AASAN Publications. He is a life member of the International Association of Engineers (IAENG) and is currently working as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 18,
+    "image": "/images/abinaya.jpg",
+    "name": "Mrs.N.Abinaya",
+    "designation": "Assistant Professor",
+    "specialization": "Machine learning,Deep learning,Natural language Processing",
+    "experience": "10+ years",
+    "education": "M.Tech",
+    "email": "abinaya.n@hit.edu.in",
+    "date_of_joining": "2024-07-01",
+    "patents": 1,
+    "publications": 38,
+    "description": "Ms. N. Abinaya has over 9 years and 11 months of academic experience, having served at Nandha Engineering College, Kongu Engineering College, and currently at Hindusthan Institute of Technology. She completed her Postgraduate degree (M.Tech. in Computational Engineering and Networking) from Amrita School of Engineering, Coimbatore, under Amrita Vishwa Vidyapeetham, and her Undergraduate degree (B.Tech. in Agricultural Information Technology) from Agricultural College & Research Institute under Tamil Nadu Agricultural University, Coimbatore. Her specialization is in Machine Learning, Deep Learning, and Natural Language Processing, and her areas of interest include AI for healthcare, language modeling, and intelligent text summarization. She has published 9 research papers in international journals and presented 25 papers at international conferences, covering areas such as deep learning applications, real-time systems, and predictive analytics. She has contributed four book chapters published by CRC Press and has published a patent titled “Predictive Academic Monitoring System for Higher Education Using Hybrid Machine Learning Models” in 2025. She is also recognized for her achievements in NPTEL, including domain certifications and mentorship roles. She has attended numerous FDPs and workshops focused on AI, data science, and IoT. Currently, she serves as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 19,
+    "image": "/images/Johny.jpg",
+    "name": "Mr.Johny Sebastine",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "4+ years",
+    "education": "M.E",
+    "email": "jssjohny@gmail.com",
+    "date_of_joining": "2024-07-08",
+    "patents": 1,
+    "publications": 3,
+    "description": "Mr. Johny Sebastine has over 3.5 years of academic experience and nearly 3 years of industrial experience. He completed his Postgraduate (M.E. in Computer Science and Engineering) from Thangavelu Engineering College, Chennai (Anna University), and his Undergraduate (B.Tech. in Information Technology) from St. Joseph’s College of Engineering, Chennai (Anna University). His specialization lies in Computer Science and Engineering, and his areas of interest include data science, networking, and emerging technologies in the IT field. He has presented research at national conferences and organized several academic events including conferences, workshops, and seminars. He has also published a patent, and holds memberships in professional bodies such as IAENG and the All India Council for Technical Skill Development. Currently, he serves as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 20,
+    "image": "/images/Pavithra j.jpg",
+    "name": "Ms.J.Pavithra",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science And Engineering",
+    "experience": "12+ years",
+    "education": "M.E",
+    "email": "pavithra.j@hit.edu.in",
+    "date_of_joining": "2024-07-11",
+    "patents": 0,
+    "publications": 5,
+    "description": "Ms. J. Pavithra has over 11.5 years of academic experience, having served in institutions like Hindusthan Institute of Technology, Dhanalakshmi Srinivasan College of Engineering, and Dr. Mahalingam College of Engineering and Technology. She completed her Postgraduate degree (M.E. in Computer Science and Engineering) from Sri Ramakrishna Engineering College, Coimbatore, and her Undergraduate degree (B.E. in Computer Science and Engineering) from Sasurie College of Engineering, Tirupur, both under Anna University, Chennai. Her specialization is in Computer Science and Engineering, and her areas of interest include IoT, AI integration, machine learning, and intelligent computing systems. She has published 2 journal papers and presented 2 papers in international conferences, and has actively organized and attended FDPs, seminars, and guest lectures. She is the author of three books, including works on Python programming, machine learning, and artificial intelligence. She is a life member of ISTE, and currently works as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 21,
+    "image": "/images/mookhambika.jpeg",
+    "name": "Dr.N.Mookhambika ",
+    "designation": "Assistant Professor",
+    "specialization": "Wireless Sensor Networks",
+    "experience": "14+ years",
+    "education": "Ph.D,M.E",
+    "email": "mookhambika.n@hit.edu.in",
+    "date_of_joining": "2024-07-12",
+    "patents": 4,
+    "publications": 19,
+    "description": "Dr. N. Mookhambika has over 14 years of academic and 2 years of industry experience. She received her Ph.D. in Computer Science and Engineering from Anna University in 2025, completed her M.E. from Anna University, MCA from an affiliated institution, and B.Sc. in Computer Science. Her specialization is in Computer Networks, Data Structures, and Cloud Security. Her areas of interest include wireless sensor networks, data analytics, and emerging technologies. She has published 19 research papers, holds 4 patents, presented at national and international conferences, and co-authored 2 book chapters and one book. She is currently working as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 22,
+    "image": "/images/suganthi.jpg",
+    "name": "Mrs.D.Suganthi",
+    "designation": "Assistant Professor",
+    "specialization": "Wireless Sensor Networks",
+    "experience": "19+ years",
+    "education": "M.E",
+    "email": "suganthi.d@hit.edu.in",
+    "date_of_joining": "2024-08-07",
+    "patents": 0,
+    "publications": 2,
+    "description": "Ms. D. Suganthi has over 19 years of academic experience, having served at institutions such as RVS College of Engineering and Technology, Theni Kammavar Sangam College of Technology, and Arulmigu Kallagar Polytechnic College. She completed her Postgraduate degree (M.E. in Computer Science and Engineering) from Government College of Engineering, Tirunelveli, and her Undergraduate degree (B.E. in Information Technology) from RVS College of Engineering and Technology, affiliated with Madurai Kamaraj University. Her specialization is in Wireless Sensor Networks, and her areas of interest include cyber-physical systems, wireless communication, and embedded systems. She has published in international journals and presented at national conferences, including a notable paper on RF-based cruise control systems. She has attended programs such as short-term training on cybersecurity and actively engages in professional development. She is a life member of several professional bodies including ISTE, Institution of Engineers, ISRD, and IAENG. Currently, she is serving as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 23,
+    "image": "/images/Ramalakshmi B - RAMALAKSHMI B.jpg",
+    "name": "Mrs.B.Ramalakshmi",
+    "designation": "Assistant Professor",
+    "specialization": "Machine Learning ",
+    "experience": "8+ years",
+    "education": "M.E",
+    "email": "ramalakshmi.b@hit.edu.in",
+    "date_of_joining": "2024-08-12",
+    "patents": 1,
+    "publications": 2,
+    "description": "Ms. B. Ramalakshmi has over 7 years and 9 months of academic experience, along with 4 years and 11 months of industrial experience as a Software Programmer at Nexlogic Software Solutions. She completed her Postgraduate degree (M.E. in Computer Science and Engineering) from Kalaignarkarunanidhi Institute of Technology and her Undergraduate degree (B.E. in Computer Science and Engineering) from Meenakshi College of Engineering, both affiliated with Anna University. Her specialization is in Machine Learning, and her areas of interest include IoT-driven smart agriculture, data-driven disease prediction, and neural network-based classification models. She has published 2 papers in reputed journals, including IEEE Xplore and the Journal of Artificial Intelligence and Cyber Security, and has presented at international conferences. She is the author of the book Advanced C Programming and Data Structures I and holds a patent. She is a life member of ISTE and a professional member of IFERP. Currently, she is working as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 24,
+    "image": "/images/praveena.jpg",
+    "name": "Mrs.A.Praveena ",
+    "designation": "Assistant Professor",
+    "specialization": "Image processing,Machine Learning,Deep Learning",
+    "experience": "7+ years",
+    "education": "M.E",
+    "email": "praveenaayyasamy@hit.edu.in",
+    "date_of_joining": "2024-08-12",
+    "patents": 1,
+    "publications": 3,
+    "description": "Ms. A. Praveena has over 3 years of academic experience, having served as an Assistant Professor at Rathinam Technical Campus. She completed her Postgraduate degree (M.E. in Computer Science Engineering) from V.S.B. Technical Campus, and her Undergraduate degree (B.E. in Computer Science Engineering) from Sri Eshwar College of Engineering, both under Anna University. Her specialization is in Image Processing, Machine Learning, and Deep Learning, and her areas of interest include scalable data encryption, chronic health monitoring apps, and mobile computing systems. She has published two research papers in international journals, including JAICS and the International Journal of Computer Science and Mobile Computing, and has presented papers at national-level technical symposiums and conferences. She is the co-author of three books, including works on blockchain technology, digital systems, and C programming. She also holds a patent, and is a life member of ISTE and IAENG, as well as an annual member of IFERP. Currently, she serves as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 25,
+    "image": "/images/senthilsigh.jpg",
+    "name": "Dr.C.Senthil Singh",
+    "designation": "Professor",
+    "specialization": "Wireless Sensor Networks",
+    "experience": "19+",
+    "education": "Ph.D and M.Tech",
+    "email": "csenthilsingh@gmail.com",
+    "date_of_joining": "2022-06-06",
+    "patents": 4,
+    "publications": 20,
+    "description": "Dr. C. Senthil Singh holds a Doctor of Philosophy (Ph.D.) in Information and Communication Engineering from Anna University, Chennai. With over 23 years of academic and research experience, Dr. C. Senthil Singh has consistently demonstrated a deep passion for teaching and technological innovation in engineering education. He has guided numerous undergraduate and postgraduate students in their academic projects and research initiatives. His professional and research interests span a wide range of emerging technologies, including VLSI Design, Wireless Communication, Embedded Systems, Telemedicine, and Image Processing. He is particularly keen on the integration of technology in healthcare and smart systems and has contributed to several scholarly articles and technical papers in reputed national and international journals and conferences. Dr. C. Senthil Singh is an active member of several prestigious professional bodies, including the Indian Society for Technical Education (ISTE), the Institute of Electrical and Electronics Engineers (IEEE), the Institution of Electronics and Telecommunication Engineers (IETE), and the Computer Society of India (CSI). These affiliations reflect his commitment to continuous learning, professional development, and contribution to the advancement of engineering education and practice.."
+  },
+  {
+    "id": 26,
+    "image": "/images/periyasamy pn.JPG",
+    "name": "Mr.P.N Periyasamy ",
+    "designation": "Assistant Professor",
+    "specialization": "Network security",
+    "experience": "15+ years",
+    "education": "M.Tech",
+    "email": "pnpsamy80@gmail.com",
+    "date_of_joining": "2022-03-07",
+    "patents": 0,
+    "publications": 3,
+    "description": "Mr. P. N. Periyasamy has over 14 years and 8 months of academic experience, having worked in several institutions including Hindusthan Institute of Technology, Meenakshi College of Engineering, and Tamilnadu College of Engineering. He completed his Postgraduate degree (M.Tech. in Information Technology) from Sathyabama Institute of Science and Technology, Chennai, and his Undergraduate degree (B.E. in Computer Science and Engineering) from M.A.M. College of Engineering, affiliated with Bharathidasan University, Trichy. His specialization is in Network Security, and his areas of interest include deep learning, medical image boundary detection, and 5G resource allocation. He has published 2 research papers in reputed journals including the ICTACT Journal on Communication Technology and IJARESM, and has participated in several international and national workshops, FDPs, and seminars. He is the author of the book Web Technology and a life member of the Institution of Engineers (IEI). Currently, he is working as an Assistant Professor in the Department of Computer Science and Engineering at Hindusthan Institute of Technology, Coimbatore."
+  },
+  {
+    "id": 27,
+    "image": "/images/uthayakumar j.jpg",
+    "name": "Mr.J.Uthayakumar",
+    "designation": "Assistant Professor",
+    "specialization": "Computer Science",
+    "experience": "5+ years",
+    "education": "M.E",
+    "email": "uthayakumar.j@hit.edu.in",
+    "date_of_joining": "2023-06-08",
+    "patents": 5,
+    "publications": 3,
+    "description": "He has 4 years of Teaching Experience in the field of Computer Science and Engineering and 5 yrs in industry. He received his Bachelor Degree and Master Degree from Anna University, Chennai, He has published 4 Journal papers in various international journals and conferences and 1 copyrights. He has also published 5 patents, 2 text books."
+  },
+  {
+  "id": 28,
+  "image": "images/p_palanisamy.png",
+  "name": "Mr.P.Palanisamy",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "11+ years",
+  "education": "M.E",
+  "email": "palanimecse@gmail.com",
+  "date_of_joining": "2025-06-02",
+  "patents": 3,
+  "publications": 5,
+  "description": "He has over 11 years of academic teaching experience in the field of Computer Science and Engineering. He completed his B.E. from KSR College of Engineering and M.E. from Karpagam Academy of Higher Education. He has presented 5 international conference papers and is a co-author of two academic books titled 'Machine Learning Techniques' (2022) and 'Foundations of Data Science' (2023). He holds 3 patents and is a life member of the Indian Society for Technical Education."
+},
+{
+  "id": 29,
+  "image": "/images/kaviya_r.jpg",
+  "name": "Ms.Kaviya R",
+  "designation": "Assistant Professor",
+  "specialization": "Cloud Computing",
+  "experience": "0 years",
+  "education": "M.E (CSE)",
+  "email": "kaviya2612002@gmail.com",
+  "date_of_joining": "2025-06-18",
+  "patents": 0,
+  "publications": 0,
+  "description": "She has completed her M.E in Computer Science and Engineering from K.S.R College of Engineering under Anna University and her B.Tech in Information Technology from Loyola Institute of Technology and Science. Her area of specialization is Cloud Computing. She is a life member of the Indian Society for Technical Education (ISTE)."
+},
+{
+  "id": 30,
+  "image": "images/dr_v_balajishanmugam.png",
+  "name": "Dr.V.Balajishanmugam",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "13+ years",
+  "education": "B.E., M.E., Ph.D",
+  "email": "balajishanmugam.cse@gmail.com",
+  "date_of_joining": "2025-07-08",
+  "patents": 0,
+  "publications": 3,
+  "description": "He has over 13 years of academic experience in Computer Science and Engineering. He completed his Ph.D. in Information and Communication Engineering from Anna University in 2024. His research focuses on wireless sensor network security, clone node detection, jamming attack mitigation, and cloud computing. He has published research in international journals and IEEE international conferences and has served in teaching and placement leadership roles at reputed engineering institutions."
+},
+{
+  "id": 31,
+  "image": "images/a_ganesan.png",
+  "name": "Mr.A.Ganesan",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "12+ years",
+  "education": "B.E., M.E",
+  "email": "ganesanarumugamr@gmail.com",
+  "date_of_joining": "2025-06-18",
+  "patents": 1,
+  "publications": 1,
+  "description": "He has over 12 years of combined academic and industrial experience in Computer Science and Engineering. He has served as Assistant Professor at multiple engineering institutions and has industry experience as a Senior Test Engineer at Wipro and Senior Software Engineer at Nest Digital. He has published one international journal paper in cloud security and has organized and attended numerous FDPs, workshops, seminars, and webinars. He is also a recipient of multiple performance awards at Wipro."
+},
+{
+  "id": 32,
+  "image": "images/shyamala_m.png",
+  "name": "Mrs.M.Shyamala",
+  "designation": "Assistant Professor",
+  "specialization": "Big Data",
+  "experience": "9+ years",
+  "education": "M.E",
+  "email": "shyamala.m@hit.edu.in",
+  "date_of_joining": "2025-06-25",
+  "patents": 0,
+  "publications": 0,
+  "description": "Mrs. M. Shyamala has over 9 years of academic teaching experience in the field of Computer Science and Engineering. Mrs. M. Shyamala completed her Diploma, B.E., and M.E. in Computer Science and Engineering with strong academic performance and has served as an Assistant Professor at reputed engineering institutions. Mrs. M. Shyamala is currently serving as an Assistant Professor at Hindusthan Institute of Technology, with specialization in Big Data and active involvement in academic and professional development programs."
+},
+
+{
+  "id": 33,
+  "image": "images/saranya.jpeg",
+  "name": "Mrs.Saranya N",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "8+ years",
+  "education": "M.E.",
+  "email": "n.saranya@hit.edu.in",
+  "date_of_joining": "2025-06-20",
+  "patents": 5,
+  "publications": 3,
+  "description": "She is an Assistant Professor at HIT. She completed her undergraduate studies at Sri Eshwar in 2013 and her postgraduate studies at HICET in 2024. Her research interest is in quantum computing. She has authored three book chapters and published one paper in an international journal. She is a life member of ISTE and served at Karpagam College from 2017 to 2025. She has completed four Elite NPTEL courses and attended four Faculty Development Programmes, including two ATAL FDPs and one on Universal Human Values (UHV). She holds international certifications, including two Microsoft certifications as a Microsoft Technology Specialist in Database Development (SQL Server and SQL Server 2008) and one Oracle certification as an Oracle Certified Professional – Java SE 6 Programmer."
+},
+{
+  "id": 34,
+  "image": "images/Sujana_banu.jpeg",
+  "name": "Mrs.Sujana Banu",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "8+ years",
+  "education": "M.E.",
+  "email": "sujana@hit.edu.in",
+  "date_of_joining": "2025-05-12",
+  "patents": 0,
+  "publications": 1,
+  "description": "Mrs. Sujana Banu has over 8 years of teaching experience in the field of Computer Science and Engineering. Mrs. Sujana Banu holds a Master’s degree in Engineering and is currently serving as an Assistant Professor at Hindusthan Institute of Technology. Mrs. Sujana Banu has published research papers in reputed journals and conferences and holds multiple patents, demonstrating strong contributions to research, innovation, and academic development."
+},
+{
+  "id": 35,
+  "image": "images/Sri_vidyavathi.jpeg",
+  "name": "Mrs.Srividhyavathi T",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "8+ years",
+  "education": "M.E.",
+  "email": "srividhyavathi.t@hit.edu.in",
+  "date_of_joining": "2025-05-12",
+  "patents": 5,
+  "publications": 3,
+  "description": "Mrs. Srividhyavathi T has over 8 years of teaching experience in the field of Computer Science and Engineering. Mrs. Srividhyavathi T holds a Master’s degree in Engineering and is currently serving as an Assistant Professor at Hindusthan Institute of Technology. Mrs. Srividhyavathi T has published research papers in reputed journals and conferences and holds multiple patents, demonstrating strong contributions to research, innovation, and academic development."
+},
+{
+  "id": 36,
+  "image": "images/Parathasarathy.jpeg",
+  "name": "Mr.Parthasarathy G",
+  "designation": "Assistant Professor",
+  "specialization": "Computer Science and Engineering",
+  "experience": "8+ years",
+  "education": "M.E.",
+  "email": "parthasarathy.g@hit.edu.in",
+  "date_of_joining": "2025-05-12",
+  "patents": 5,
+  "publications": 3,
+  "description": "Mr. Parthasarathy G has over 8 years of teaching experience in the field of Computer Science and Engineering. Mr. Parthasarathy G holds a Master’s degree in Engineering and is currently serving as an Assistant Professor at Hindusthan Institute of Technology. Mr. Parthasarathy G has published research papers in reputed journals and conferences and holds multiple patents, demonstrating strong contributions to research, innovation, and academic development."
+}
+]
+
+},
+
+    {
+      "id": "ai",
+      "name": "Artificial Intelligence & Data Science",
+      "shortName": "AI & DS",
+      "description": "We empower future AI and Data Science experts with an innovative curriculum, hands-on training, and advanced research, enabling them to solve complex real-world problems and deliver impactful, data-driven solutions across industries and global communities.we prepare graduates to lead in an ever-evolving technologies.",
+      "icon": "Brain",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/ai/",
+      "vision": "To be a leading department in AI and data science education, producing innovative professionals who drive technological advancements.",
+      "mission": "To provide comprehensive education in AI and data science, foster research and innovation, and develop ethical professionals for the global technology industry.",
+      "programs": [
+        {
+          "name": "B.Tech Artificial Intelligence & Data Science",
+          "duration": "4 Years",
+          "intake": "60 Students",
+          "eligibility": "10+2 with PCM, JEE Main"
+        },
+        {
+          "name": "M.Tech Artificial Intelligence & Data Science",
+          "duration": "2 Years",
+          "intake": "24 Students",
+          "eligibility": "B.Tech CSE/IT, GATE,TANCET"
+        }
+      ],
+      "specializations": ["Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Big Data Analytics"],
+      "facilities": ["AI Research Lab", "Data Analytics Lab", "Machine Learning Lab", "NLP Lab", "Computer Vision Lab"],
+      "psos": [
+        {
+          "id": 1,
+          "title": "AI Model Development",
+          "description": "Graduates will be able to design, develop, and deploy AI models for real-world applications."
+        },
+        {
+          "id": 2,
+          "title": "Data-Driven Decision Making",
+          "description": "Graduates will utilize data analytics techniques to derive insights and support decision-making processes."
+        }
+      ],
+      "peos": [
+        {
+          "id": 1,
+          "title": "AI Leadership",
+          "description": "Graduates will assume leadership roles in AI and data science domains, driving innovation and technological advancements."
+        },
+        {
+          "id": 2,
+          "title": "Research Excellence",
+          "description": "Graduates will pursue advanced research in AI and Data Science, contributing to scientific knowledge and breakthrough discoveries."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Machine Learning Workshops",
+          "description": "Hands-on workshops with real datasets to build and deploy ML models.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Industry Case Studies",
+          "description": "Real-world AI implementation case studies from leading technology companies.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 3,
+          "title": "Research-Based Projects",
+          "description": "Students work on cutting-edge research projects in AI and data science.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 4,
+          "title": "Kaggle Competitions",
+          "description": "Participation in global data science competitions for practical experience.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Arun Kumar",
+          "designation": "Professor & Head",
+          "specialization": "Machine Learning, Deep Learning",
+          "experience": "16 years",
+          "education": "Ph.D from IIT Bombay",
+          "image": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "arun.kumar@hit.edu",
+          "publications": 52,
+          "researchAreas": ["Neural Networks", "Computer Vision", "Reinforcement Learning"]
+        },
+        {
+          "id": 2,
+          "name": "Dr. Sneha Patel",
+          "designation": "Associate Professor",
+          "specialization": "Natural Language Processing, Text Analytics",
+          "experience": "11 years",
+          "education": "Ph.D from IIIT Hyderabad",
+          "image": "https://images.pexels.com/photos/5212324/pexels-photo-5212324.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "sneha.patel@hit.edu",
+          "publications": 34,
+          "researchAreas": ["NLP", "Sentiment Analysis", "Language Models"]
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "name": "Information Technology",
+      "shortName": "IT",
+      "description": "We bridge technology and business by crafting innovative and scalable IT solutions that power digital transformation initiatives, enabling organizations to effectively optimize processes, enhance customer experiences, improve decision-making, drive sustainable growth, and thrive in rapidly evolving digital economy.",
+      "icon": "Globe",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/it/index.html",
+      "vision": "To be a premier department in information technology education, creating IT professionals who drive digital innovation.",
+      "mission": "To provide comprehensive IT education, foster innovation in digital technologies, and develop skilled professionals for the global IT industry.",
+      "programs": [
+        {
+          "name": "B.Tech Information Technology",
+          "duration": "4 Years",
+          "intake": "90 Students",
+          "eligibility": "10+2 with PCM, JEE Main"
+        },
+        {
+          "name": "M.Tech Information Technology",
+          "duration": "2 Years",
+          "intake": "24 Students",
+          "eligibility": "B.Tech IT/CSE, GATE"
+        }
+      ],
+      "specializations": ["Web Technologies", "Mobile Computing", "Network Security", "Database Systems", "Enterprise Systems", "Digital Marketing"],
+      "facilities": ["Web Development Lab", "Mobile App Lab", "Network Security Lab", "Database Lab", "Enterprise Systems Lab"],
+      "psos": [
+        {
+          "id": "PSO1",
+          "title": "IT Solution Development",
+          "description": "Graduates will be able to design and develop comprehensive IT solutions for business and organizational needs."
+        },
+        {
+          "id": "PSO2",
+          "title": "Digital Transformation",
+          "description": "Graduates will lead digital transformation initiatives using modern IT technologies and methodologies."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "IT Leadership",
+          "description": "Graduates will assume leadership roles in IT organizations, driving technological innovation and business growth."
+        },
+        {
+          "id": "PEO2",
+          "title": "Entrepreneurship",
+          "description": "Graduates will establish successful IT ventures and contribute to the digital economy."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "Engineering Knowledge",
+          "description": "Apply knowledge of mathematics, science, and IT fundamentals to solve complex technology problems."
+        },
+        {
+          "id": "PO2",
+          "title": "Problem Analysis",
+          "description": "Identify and analyze complex IT problems using systematic approaches."
+        },
+        {
+          "id": "PO3",
+          "title": "Design/Development of Solutions",
+          "description": "Design IT solutions considering user requirements, scalability, and security."
+        },
+        {
+          "id": "PO4",
+          "title": "Conduct Investigations",
+          "description": "Use research methods to evaluate and improve IT systems and processes."
+        },
+        {
+          "id": "PO5",
+          "title": "Modern Tool Usage",
+          "description": "Apply modern IT tools, frameworks, and platforms effectively."
+        },
+        {
+          "id": "PO6",
+          "title": "The Engineer and Society",
+          "description": "Understand the societal impact of IT systems and digital technologies."
+        },
+        {
+          "id": "PO7",
+          "title": "Environment and Sustainability",
+          "description": "Promote sustainable IT practices and green computing initiatives."
+        },
+        {
+          "id": "PO8",
+          "title": "Ethics",
+          "description": "Apply ethical principles in IT development and data management."
+        },
+        {
+          "id": "PO9",
+          "title": "Individual and Team Work",
+          "description": "Work effectively in diverse IT teams and project environments."
+        },
+        {
+          "id": "PO10",
+          "title": "Communication",
+          "description": "Communicate technical concepts effectively to stakeholders."
+        },
+        {
+          "id": "PO11",
+          "title": "Project Management",
+          "description": "Manage IT projects using modern methodologies and tools."
+        },
+        {
+          "id": "PO12",
+          "title": "Life-long Learning",
+          "description": "Adapt to evolving IT technologies and industry trends."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Agile Development",
+          "description": "Learn modern software development using agile methodologies and DevOps practices.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Industry Internships",
+          "description": "Mandatory industry internships to gain real-world IT experience.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Ramesh Gupta",
+          "designation": "Professor & Head",
+          "specialization": "Web Technologies, Enterprise Systems",
+          "experience": "17 years",
+          "education": "Ph.D from Anna University",
+          "image": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "ramesh.gupta@hit.edu",
+          "publications": 41,
+          "researchAreas": ["Web Services", "Enterprise Architecture", "Cloud Computing"]
+        }
+      ]
+    },
+    {
+      "id": "ece",
+      "name": "Electronics & Communication Engineering",
+      "shortName": "ECE",
+      "description": "Electronics Engineering combines physics, mathematics, and practical skills to design and develop electronic systems used in robotics, communication, and embedded technologies.It focuses on analyzing and integrating electronic components and circuits for real-world applications.",
+      "icon": "Radio",
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/ece.html",
+      "vision": "To excel in electronics and communication engineering education and research, creating innovative solutions for emerging technologies.",
+      "mission": "To provide quality education in electronics and communication, promote research in emerging areas, and develop skilled professionals for the electronics industry.",
+      "programs": [
+        {
+          "name": "B.Tech Electronics & Communication Engineering",
+          "duration": "4 Years",
+          "intake": "90 Students",
+          "eligibility": "10+2 with PCM, JEE Main"
+        },
+        {
+          "name": "M.Tech Electronics & Communication Engineering",
+          "duration": "2 Years",
+          "intake": "24 Students",
+          "eligibility": "B.Tech ECE/EEE, GATE"
+        }
+      ],
+      "specializations": ["VLSI Design", "Embedded Systems", "Signal Processing", "IoT", "Wireless Communication"],
+      "facilities": ["VLSI Lab", "Communication Lab", "Microprocessor Lab", "Digital Signal Processing Lab", "Embedded Systems Lab"],
+      "psos": [
+        {
+          "id": "PSO1",
+          "title": "Electronics System Design",
+          "description": "Graduates will be able to design and develop electronic systems for various applications."
+        },
+        {
+          "id": "PSO2",
+          "title": "Communication Technology",
+          "description": "Graduates will demonstrate expertise in modern communication technologies and protocols."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "Technical Excellence",
+          "description": "Graduates will excel in electronics and communication engineering careers."
+        },
+        {
+          "id": "PEO2",
+          "title": "Innovation",
+          "description": "Graduates will contribute to technological innovation in electronics and communication."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "Engineering Knowledge",
+          "description": "Apply knowledge of mathematics, science, and engineering fundamentals to solve complex engineering problems."
+        },
+        {
+          "id": "PO2",
+          "title": "Problem Analysis",
+          "description": "Identify, formulate, and analyze complex engineering problems using first principles of mathematics and engineering sciences."
+        },
+        {
+          "id": "PO3",
+          "title": "Design/Development of Solutions",
+          "description": "Design solutions for complex engineering problems considering public health, safety, and cultural, societal, and environmental considerations."
+        },
+        {
+          "id": "PO4",
+          "title": "Conduct Investigations",
+          "description": "Use research-based knowledge and methods including design of experiments, analysis and interpretation of data to provide valid conclusions."
+        },
+        {
+          "id": "PO5",
+          "title": "Modern Tool Usage",
+          "description": "Create, select, and apply appropriate techniques, resources, and modern engineering tools including prediction and modeling."
+        },
+        {
+          "id": "PO6",
+          "title": "The Engineer and Society",
+          "description": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues."
+        },
+        {
+          "id": "PO7",
+          "title": "Environment and Sustainability",
+          "description": "Understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate sustainable development."
+        },
+        {
+          "id": "PO8",
+          "title": "Ethics",
+          "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice."
+        },
+        {
+          "id": "PO9",
+          "title": "Individual and Team Work",
+          "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        },
+        {
+          "id": "PO10",
+          "title": "Communication",
+          "description": "Communicate effectively on complex engineering activities with the engineering community and society at large."
+        },
+        {
+          "id": "PO11",
+          "title": "Project Management",
+          "description": "Demonstrate knowledge and understanding of engineering and management principles and apply these to one's own work."
+        },
+        {
+          "id": "PO12",
+          "title": "Life-long Learning",
+          "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Circuit Simulation",
+          "description": "Advanced circuit simulation using industry-standard tools for practical learning.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Hardware-in-Loop Testing",
+          "description": "Real-time testing with actual hardware components for practical understanding.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Priya Sharma",
+          "designation": "Professor & Head",
+          "specialization": "VLSI Design, Digital Signal Processing",
+          "experience": "15 years",
+          "education": "Ph.D from IIT Madras",
+          "image": "https://images.pexels.com/photos/5212324/pexels-photo-5212324.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "priya.sharma@hit.edu",
+          "publications": 38,
+          "researchAreas": ["VLSI Design", "Low Power Design", "Digital Signal Processing"]
+        }
+      ]
+    },
+    {
+      "id": "mech",
+      "name": "Mechanical Engineering",
+      "shortName": "MECH",
+      "description": "Engineering innovative mechanical solutions for manufacturing, automation, and sustainable technologies—enhancing productivity, promoting eco-friendly practices, and driving technological advancement across industries for a smarter, greener future.",
+      "icon": "Settings",
+      "image": "mech.jpg",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/mech.html",
+      "vision": "To be a center of excellence in mechanical engineering education and research, contributing to sustainable technological development.",
+      "mission": "To provide comprehensive mechanical engineering education, promote innovation in manufacturing and design, and develop competent engineers for industry and research.",
+      "programs": [
+        {
+          "name": "B.Tech Mechanical Engineering",
+          "duration": "4 Years",
+          "intake": "120 Students",
+          "eligibility": "10+2 with PCM, JEE Main"
+        },
+        {
+          "name": "M.Tech Mechanical Engineering",
+          "duration": "2 Years",
+          "intake": "30 Students",
+          "eligibility": "B.Tech ME, GATE"
+        }
+      ],
+      "specializations": ["Robotics & Automation", "Thermal Engineering", "Manufacturing", "Design Engineering", "Renewable Energy"],
+      "facilities": ["CAD/CAM Lab", "Thermal Lab", "Manufacturing Lab", "Robotics Workshop", "Materials Testing Lab"],
+      "psos": [
+        {
+          "id": "PSO1",
+          "title": "Mechanical System Design",
+          "description": "Graduates will be able to design and analyze mechanical systems for various industrial applications."
+        },
+        {
+          "id": "PSO2",
+          "title": "Manufacturing Excellence",
+          "description": "Graduates will demonstrate expertise in modern manufacturing processes and automation technologies."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "Engineering Leadership",
+          "description": "Graduates will assume leadership roles in mechanical engineering and related fields."
+        },
+        {
+          "id": "PEO2",
+          "title": "Sustainable Innovation",
+          "description": "Graduates will contribute to sustainable engineering solutions and environmental conservation."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "Engineering Knowledge",
+          "description": "Apply knowledge of mathematics, science, and engineering fundamentals to solve complex engineering problems."
+        },
+        {
+          "id": "PO2",
+          "title": "Problem Analysis",
+          "description": "Identify, formulate, and analyze complex engineering problems using first principles of mathematics and engineering sciences."
+        },
+        {
+          "id": "PO3",
+          "title": "Design/Development of Solutions",
+          "description": "Design solutions for complex engineering problems considering public health, safety, and cultural, societal, and environmental considerations."
+        },
+        {
+          "id": "PO4",
+          "title": "Conduct Investigations",
+          "description": "Use research-based knowledge and methods including design of experiments, analysis and interpretation of data to provide valid conclusions."
+        },
+        {
+          "id": "PO5",
+          "title": "Modern Tool Usage",
+          "description": "Create, select, and apply appropriate techniques, resources, and modern engineering tools including prediction and modeling."
+        },
+        {
+          "id": "PO6",
+          "title": "The Engineer and Society",
+          "description": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues."
+        },
+        {
+          "id": "PO7",
+          "title": "Environment and Sustainability",
+          "description": "Understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate sustainable development."
+        },
+        {
+          "id": "PO8",
+          "title": "Ethics",
+          "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice."
+        },
+        {
+          "id": "PO9",
+          "title": "Individual and Team Work",
+          "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        },
+        {
+          "id": "PO10",
+          "title": "Communication",
+          "description": "Communicate effectively on complex engineering activities with the engineering community and society at large."
+        },
+        {
+          "id": "PO11",
+          "title": "Project Management",
+          "description": "Demonstrate knowledge and understanding of engineering and management principles and apply these to one's own work."
+        },
+        {
+          "id": "PO12",
+          "title": "Life-long Learning",
+          "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Design Thinking Approach",
+          "description": "Human-centered approach to innovation and problem-solving in mechanical design.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Industry-Integrated Projects",
+          "description": "Real industry projects to bridge the gap between theory and practice.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Amit Patel",
+          "designation": "Professor & Head",
+          "specialization": "Robotics, Manufacturing Engineering",
+          "experience": "16 years",
+          "education": "Ph.D from IIT Kanpur",
+          "image": "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "amit.patel@hit.edu",
+          "publications": 42,
+          "researchAreas": ["Industrial Robotics", "Advanced Manufacturing", "Automation"]
+        }
+        
+      ]
+    },
+    {
+      "id": "aero",
+      "name": "Aeronautical Engineering",
+      "shortName": "AERO",
+      "description": "Aeronautical engineering focuses on the design, development, testing, and maintenance of aircraft. It combines principles of aerodynamics, propulsion, materials science, and structural analysis to create efficient, safe, and high-performance flying machines.",
+      "icon": "Award",
+      "image": "aero.jpg",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/aero.html",
+      "vision": "To be a center of excellence in mechanical engineering education and research, contributing to sustainable technological development.",
+      "mission": "To advance the science and technology of flight through innovative research, design, and development of aircraft systems, ensuring safety, efficiency, and sustainability in aerospace transportation for the benefit of society.",
+      "programs": [
+        {
+          "name": "B.Tech Aeronautical Engineering",
+          "duration": "4 Years",
+          "intake": "120 Students",
+          "eligibility": "10+2 with PCM, JEE Main"
+        },
+        {
+          "name": "M.Tech Aeronautical Engineering",
+          "duration": "2 Years",
+          "intake": "30 Students",
+          "eligibility": "B.Tech ME, GATE"
+        }
+      ],
+      "specializations": ["Robotics & Automation", "Thermal Engineering", "Manufacturing", "Design Engineering", "Renewable Energy"],
+      "facilities": ["CAD/CAM Lab", "Thermal Lab", "Manufacturing Lab", "Robotics Workshop", "Materials Testing Lab"],
+      "psos": [
+        {
+          "id": "PSO1",
+          "title": "Mechanical System Design",
+          "description": "Graduates will be able to design and analyze mechanical systems for various industrial applications."
+        },
+        {
+          "id": "PSO2",
+          "title": "Manufacturing Excellence",
+          "description": "Graduates will demonstrate expertise in modern manufacturing processes and automation technologies."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "Engineering Leadership",
+          "description": "Graduates will assume leadership roles in mechanical engineering and related fields."
+        },
+        {
+          "id": "PEO2",
+          "title": "Sustainable Innovation",
+          "description": "Graduates will contribute to sustainable engineering solutions and environmental conservation."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "Engineering Knowledge",
+          "description": "Apply knowledge of mathematics, science, and engineering fundamentals to solve complex engineering problems."
+        },
+        {
+          "id": "PO2",
+          "title": "Problem Analysis",
+          "description": "Identify, formulate, and analyze complex engineering problems using first principles of mathematics and engineering sciences."
+        },
+        {
+          "id": "PO3",
+          "title": "Design/Development of Solutions",
+          "description": "Design solutions for complex engineering problems considering public health, safety, and cultural, societal, and environmental considerations."
+        },
+        {
+          "id": "PO4",
+          "title": "Conduct Investigations",
+          "description": "Use research-based knowledge and methods including design of experiments, analysis and interpretation of data to provide valid conclusions."
+        },
+        {
+          "id": "PO5",
+          "title": "Modern Tool Usage",
+          "description": "Create, select, and apply appropriate techniques, resources, and modern engineering tools including prediction and modeling."
+        },
+        {
+          "id": "PO6",
+          "title": "The Engineer and Society",
+          "description": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues."
+        },
+        {
+          "id": "PO7",
+          "title": "Environment and Sustainability",
+          "description": "Understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate sustainable development."
+        },
+        {
+          "id": "PO8",
+          "title": "Ethics",
+          "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice."
+        },
+        {
+          "id": "PO9",
+          "title": "Individual and Team Work",
+          "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+        },
+        {
+          "id": "PO10",
+          "title": "Communication",
+          "description": "Communicate effectively on complex engineering activities with the engineering community and society at large."
+        },
+        {
+          "id": "PO11",
+          "title": "Project Management",
+          "description": "Demonstrate knowledge and understanding of engineering and management principles and apply these to one's own work."
+        },
+        {
+          "id": "PO12",
+          "title": "Life-long Learning",
+          "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Design Thinking Approach",
+          "description": "Human-centered approach to innovation and problem-solving in mechanical design.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Industry-Integrated Projects",
+          "description": "Real industry projects to bridge the gap between theory and practice.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Amit Patel",
+          "designation": "Professor & Head",
+          "specialization": "Robotics, Manufacturing Engineering",
+          "experience": "16 years",
+          "education": "Ph.D from IIT Kanpur",
+          "image": "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "amit.patel@hit.edu",
+          "publications": 42,
+          "researchAreas": ["Industrial Robotics", "Advanced Manufacturing", "Automation"]
+        }
+        
+      ]
+    },
+    {
+      "id": "mba",
+      "name": "Master of Business Administration",
+      "shortName": "MBA",
+      "description": "Developing future business leaders with strategic thinking, management excellence, and practical experience—equipping them to innovate, make impactful decisions, and lead organizations effectively in a dynamic global environment.",
+      "icon": "Briefcase",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/mba.html",
+      "vision": "To be a premier business school that develops ethical leaders and innovative managers for the global business environment.",
+      "mission": "To provide world-class management education, foster entrepreneurship, and develop business leaders who create value for organizations and society.",
+      "programs": [
+        {
+          "name": "MBA (Master of Business Administration)",
+          "duration": "2 Years",
+          "intake": "60 Students",
+          "eligibility": "Bachelor's Degree, CAT/MAT/XAT"
+        },
+        {
+          "name": "Executive MBA",
+          "duration": "18 Months",
+          "intake": "30 Students",
+          "eligibility": "Bachelor's + 3 years experience"
+        }
+      ],
+      "specializations": ["Finance", "Marketing", "Human Resources", "Operations", "International Business", "Entrepreneurship"],
+      "facilities": ["Case Study Rooms", "Business Simulation Lab", "Bloomberg Terminal", "Entrepreneurship Cell", "Corporate Training Center"],
+      "psos": [
+        {
+          "id": "PSO1",
+          "title": "Strategic Management",
+          "description": "Graduates will be able to formulate and implement strategic decisions for organizational success."
+        },
+        {
+          "id": "PSO2",
+          "title": "Leadership Excellence",
+          "description": "Graduates will demonstrate effective leadership and team management skills in diverse business environments."
+        }
+      ],
+      "peos": [
+        {
+          "id": "PEO1",
+          "title": "Business Leadership",
+          "description": "Graduates will assume senior leadership positions in organizations and drive business growth."
+        },
+        {
+          "id": "PEO2",
+          "title": "Entrepreneurial Success",
+          "description": "Graduates will establish successful ventures and contribute to economic development."
+        }
+      ],
+      "pos": [
+        {
+          "id": "PO1",
+          "title": "Business Knowledge",
+          "description": "Apply comprehensive knowledge of business functions to solve complex organizational problems."
+        },
+        {
+          "id": "PO2",
+          "title": "Problem Analysis",
+          "description": "Identify and analyze complex business problems using analytical and strategic thinking."
+        },
+        {
+          "id": "PO3",
+          "title": "Solution Development",
+          "description": "Develop innovative business solutions considering stakeholder interests and market dynamics."
+        },
+        {
+          "id": "PO4",
+          "title": "Research and Analysis",
+          "description": "Conduct business research and market analysis to support decision-making."
+        },
+        {
+          "id": "PO5",
+          "title": "Technology Integration",
+          "description": "Leverage modern business tools and technologies for organizational efficiency."
+        },
+        {
+          "id": "PO6",
+          "title": "Social Responsibility",
+          "description": "Understand the role of business in society and promote sustainable practices."
+        },
+        {
+          "id": "PO7",
+          "title": "Global Perspective",
+          "description": "Demonstrate understanding of global business environment and cultural diversity."
+        },
+        {
+          "id": "PO8",
+          "title": "Ethics and Governance",
+          "description": "Apply ethical principles and corporate governance in business decisions."
+        },
+        {
+          "id": "PO9",
+          "title": "Leadership and Teamwork",
+          "description": "Lead teams effectively and work collaboratively in diverse business settings."
+        },
+        {
+          "id": "PO10",
+          "title": "Communication",
+          "description": "Communicate business ideas and strategies effectively to various stakeholders."
+        },
+        {
+          "id": "PO11",
+          "title": "Project Management",
+          "description": "Manage business projects and initiatives using modern management methodologies."
+        },
+        {
+          "id": "PO12",
+          "title": "Continuous Learning",
+          "description": "Adapt to changing business environment through continuous learning and development."
+        }
+      ],
+      "teachingMethodologies": [
+        {
+          "id": 1,
+          "title": "Case Study Method",
+          "description": "Harvard-style case study discussions for real-world business problem solving.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 2,
+          "title": "Business Simulation",
+          "description": "Virtual business simulations to experience real-world business challenges.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": 3,
+          "title": "Industry Immersion",
+          "description": "Live projects and internships with leading corporations for practical exposure.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "image": "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ],
+      "faculty": [
+        {
+          "id": 1,
+          "name": "Dr. Sunita Agarwal",
+          "designation": "Professor & Director",
+          "specialization": "Strategic Management, Finance",
+          "experience": "20 years",
+          "education": "Ph.D from IIM Ahmedabad",
+          "image": "https://images.pexels.com/photos/5212324/pexels-photo-5212324.jpeg?auto=compress&cs=tinysrgb&w=300",
+          "email": "sunita.agarwal@hit.edu",
+          "publications": 48,
+          "researchAreas": ["Corporate Strategy", "Financial Management", "Mergers & Acquisitions"]
+        }
+      ],
+       "trainingAndPlacement": {
+    "description": "The Department of Training and Placement conducts many Training Programmes to all students to develop their technical knowledge and soft skills in the areas of Aptitude, Logical Reasoning, Quantitative Reasoning and Verbal through the qualified and reputed External Training Centers. Also the training programmes like Mock Interviews, Group Discussions, Oral and Written Communication Skills and Workshop etc. are conducted for final year students by HR Managers from different industries. The Department of Training and Placement plays a vital role in locating job opportunities for Under Graduates and Post Graduates who all are passing out from the college by keeping in touch with top-notch companies and industries. The Department of Training and Placement operates round the year to facilitate interactions between companies and budding graduates. The number of students placed through the campus interviews is continuously trending towards increasing. Based on the invitations, many reputed companies are regularly visiting the institute to conduct campus interviews.",
+    "topRecruiters": ["Hexaware", "HCL", "Cognizant", "Accenture", "Amazon", "Atos", "Bosch"]
+  }
+
+    },
+    {
+      "id": "pharma",
+      "name": "Pharmaceutical Technology",
+      "shortName": "PHARMA",
+      "description": "Pharmaceutical Technology focuses on the design, development, and manufacturing of pharmaceutical products, ensuring quality, safety, and efficacy in drug delivery systems.",
+      "icon": "Building",
+      "image": "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/Pharmaceutical.html",
+      "vision": "To be a leading department in pharmaceutical education and research.",
+      "mission": "To provide quality pharmaceutical education and develop skilled professionals for the pharmaceutical industry.",
+      "programs": [
+        {
+          "name": "B.Tech Pharmaceutical Technology",
+          "duration": "4 Years",
+          "intake": "60 Students",
+          "eligibility": "10+2 with PCB/PCM"
+        }
+      ],
+      "specializations": [],
+      "facilities": [],
+      "psos": [],
+      "peos": [],
+      "pos": [],
+      "faculty": []
+    },
+    {
+      "id": "me-cse",
+      "name": "M.E Computer Science Engineering",
+      "shortName": "M.E CSE",
+      "description": "Master of Engineering in Computer Science Engineering offers advanced study in computing technologies, research methodologies, and specialized areas of computer science.",
+      "icon": "Monitor",
+      "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/cse/",
+      "vision": "To excel in postgraduate computer science education and research.",
+      "mission": "To provide advanced computer science education and foster research excellence.",
+      "programs": [
+        {
+          "name": "M.E Computer Science Engineering",
+          "duration": "2 Years",
+          "intake": "24 Students",
+          "eligibility": "B.E/B.Tech CSE/IT, GATE/TANCET"
+        }
+      ],
+      "specializations": [],
+      "facilities": [],
+      "psos": [],
+      "peos": [],
+      "pos": [],
+      "faculty": []
+    },
+    {
+      "id": "me-vlsi",
+      "name": "M.E VLSI Design",
+      "shortName": "M.E VLSI",
+      "description": "Master of Engineering in VLSI Design focuses on advanced integrated circuit design, semiconductor technology, and electronic system design methodologies.",
+      "icon": "Radio",
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/ece.html",
+      "vision": "To be a center of excellence in VLSI design education and research.",
+      "mission": "To provide advanced VLSI education and develop skilled VLSI design professionals.",
+      "programs": [
+        {
+          "name": "M.E VLSI Design",
+          "duration": "2 Years",
+          "intake": "18 Students",
+          "eligibility": "B.E/B.Tech ECE/EEE, GATE/TANCET"
+        }
+      ],
+      "specializations": [],
+      "facilities": [],
+      "psos": [],
+      "peos": [],
+      "pos": [],
+      "faculty": []
+    },
+    {
+      "id": "sh",
+      "name": "Science and Humanities",
+      "shortName": "S&H",
+      "description": "The Department of Science and Humanities provides foundational education in mathematics, physics, chemistry, and communication skills essential for engineering education.",
+      "icon": "BookOpen",
+      "image": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "hasExternalLink": true,
+      "externalUrl": "http://hit.edu.in/sh.html",
+      "vision": "To provide strong foundational knowledge in science and humanities.",
+      "mission": "To develop strong fundamentals in science, mathematics, and communication skills for engineering students.",
+      "programs": [],
+      "specializations": [],
+      "facilities": [],
+      "psos": [],
+      "peos": [],
+      "pos": [],
+      "faculty": []
+    }
+  ]
+  
+}

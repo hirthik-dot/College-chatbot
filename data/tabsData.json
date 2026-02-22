@@ -1,0 +1,1121 @@
+{
+  "tabs": [
+    {
+      "id": "hod",
+      "name": "HOD's Desk",
+      "icon": "User",
+      "content": {
+        "title": "Message from Head of Department",
+        "items": [
+          {
+            "title": "Dr. A. Jameer Basha",
+            "description": "Professor and Head of Computer Science and Engineering He completed his Ph.D. in Faculty of Information and Communication Engineering from Anna University and has been passionate about Information and Communication Engineering since his undergraduate years. Expertise: His research focuses mostly on machine learning, deep learning, and generative AI. His area of expertise is the classification and analysis of medical images. He presented her findings at national and international conferences and published many peer-reviewed pieces in prestigious journals. Research Interests: His current research projects include assessing the vulnerability of endangered species to climate change, modeling the distribution of invasive species in urban areas, and evaluating the effectiveness of community-based conservation.",
+            "qualification": "Ph.D in Computer Science and Engineering",
+            "experience": "15+ years of teaching and research experience",
+            "specialization": "Artificial Intelligence, Machine Learning",
+            "email": "jameer@hit.edu.in",
+            "phone": "+91 9876543210",
+            "achievements": "Published 50+ research papers, Recipient of Best Teacher Award 2023"
+          }
+        ]
+      }
+    },
+    {
+      "id": "latest-events",
+      "name": "Latest Events",
+      "icon": "Calendar",
+      "content": {
+        "title": "Latest Events & Activities",
+        "items": [
+          {
+            "title": "Internal Smart India Hackathon – 2022",
+            "date": "10.03.2022",
+            "participants": "56 teams (45 Software, 11 Hardware)",
+            "description": "An internal hackathon held to shortlist teams under software and hardware categories for Smart India Hackathon. A total of 56 teams participated.",
+            "logo": ""
+          },
+          {
+            "title": "Technical Talk on Latest Trends in Software Testing",
+            "date": "15.03.2022",
+            "participants": "Students and faculty of Hindusthan Institute of Technology",
+            "description": "A one-day technical session on 'Latest trends in software testing' by Mr. M. Sabarinathan, CEO of Gateway Software Solution.",
+            "logo": ""
+          },
+          {
+            "title": "Pitching Event for PoCs & Innovation Mentorship",
+            "date": "16.02.2022",
+            "participants": "PoC developers and Innovation Ambassadors",
+            "description": "Pitching event to link student PoC developers with Innovation Ambassadors for mentorship support.",
+            "logo": ""
+          },
+          {
+            "title": "Entrepreneurship Awareness Drive – 2022",
+            "date": "04.07.2022",
+            "participants": "Students of Hindusthan Institute of Technology",
+            "description": "Entrepreneurship Awareness Drive was conducted to promote entrepreneurial thinking among students, featuring successful startup founders and alumni entrepreneurs.",
+            "logo": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "curriculum_syllabus",
+      "name": "Curriculum & Syllabus",
+      "icon": "FileText",
+      "content": {
+        "title": "Regulations, Curriculum & Syllabus",
+        "items": [
+          {
+            "title": "Regulations 2024",
+            "description": "Latest curriculum framework effective from 2024, incorporating modern industry requirements and updated course structures.",
+            "regulations": "Curriculum&syllabus/Regulations 2024.pdf",
+            "curriculum": "Curriculum&syllabus/Curriculum Alignment R2024.pdf",
+            "syllabus": "Curriculum&syllabus/Syllabus2024.pdf"
+          },
+          {
+            "title": "Regulations 2022",
+            "description": "Comprehensive curriculum framework for batches admitted from 2022 onwards with enhanced practical components.",
+            "regulations": "Curriculum&syllabus/Regulations 2022.pdf",
+            "curriculum": "Curriculum&syllabus/Curriculum Alignment R2022.pdf",
+            "syllabus": "Curriculum&syllabus/Syllabus_2022.pdf"
+          },
+          {
+            "title": "Regulations 2020",
+            "description": "Curriculum framework for 2020 admissions with revised guidelines under Regulation 2020 and 2020A amendments.",
+            "regulations_2020": "Curriculum&syllabus/HITECH UG Regulations 2020.pdf",
+            "regulations_2020 A": "Curriculum&syllabus/HITECH UG Regulations 2020 A.pdf",
+            "curriculum": "Curriculum&syllabus/Curriculum Alignment R2020.pdf",
+            "syllabus": "Curriculum&syllabus/syllabus_2020.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "academic_calendar",
+      "name": "Academic Calendar",
+      "icon": "Calendar",
+      "content": {
+        "title": "Academic Calendar Events",
+        "items": [
+          {
+            "title": "Semester I Commencement",
+            "date": "2025-07-15",
+            "description": "Start of classes for Semester I."
+          },
+          {
+            "title": "Mid-Semester Examinations",
+            "date": "2025-09-20",
+            "description": "Scheduled internal assessments for all departments."
+          },
+          {
+            "title": "Cultural Fest",
+            "date": "2025-11-05",
+            "description": "Annual cultural festival with student competitions and events."
+          },
+          {
+            "title": "End Semester Examinations",
+            "date": "2025-12-10",
+            "description": "Final exams for all undergraduate and postgraduate courses."
+          }
+        ]
+      }
+    },
+    {
+      "id": "research",
+      "name": "Research & Development",
+      "icon": "BookOpen",
+      "content": {
+        "title": "Current Research Projects",
+        "items": [
+          {
+            "description": "Dr.A.JameerBasha, Professor & Head Dr.S.Lokesh, ASP/CSE Ms.P.Jeevitha, AP/CSE",
+            "title": "Design and development of smart assistive device...",
+            "funding": "Rs.9,48,614",
+            "funding_agency": "AICTE - Research Promotion Scheme AQIS Application Id: 1-9335652751",
+            "status": "3‑years (Ongoing)",
+            "duration": "3 Years(Ongoing)",
+            "years": "2030"
+          },
+          {
+            "description": "Dr.R.Kala AP/CSE",
+            "title": "Brain Tumor Detection Using Deep CNN and FPGA Implementation",
+            "funding": "Rs.2,00,000",
+            "funding_agency": "Hindusthan Educational and Charitable Trust",
+            "status": "1 year (Ongoing)",
+            "duration": "1 Year(Ongoing)",
+            "years": "2030"
+          },
+          {
+            "description": "Ms.R.T. Subhalakshmi AP/CSE",
+            "title": "Automatic segmentation and classification of COVID‑19 CT image Using DCN",
+            "funding": "Rs.2,04,000",
+            "funding_agency": "Hindusthan Educational and Charitable Trust",
+            "status": "1 Year (ongoing)",
+            "duration": "1 Year(Ongoing)",
+            "years": "2030"
+          },
+          {
+            "description": "Dr.S.Lokesh, ASP/CSE",
+            "title": "Nano Assistive Communication Device for Elderly and Speech Disability People",
+            "funding": "Rs.2,00,000",
+            "funding_agency": "Hindusthan Educational and Charitable Trust",
+            "status": "1 Year (Completed)",
+            "duration": "1 Year(Completed)",
+            "years": "2030"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faculty_achievements",
+      "name": "Faculty Achievements",
+      "icon": "Award",
+      "content": {
+        "title": "Faculty Accomplishments",
+        "items": [
+          {
+            "title": "Best Researcher Award",
+            "description": "Recognized for outstanding contributions in AI research.",
+            "year": "2024",
+            "awardedBy": "National Science Foundation",
+            "area": "Artificial Intelligence"
+          },
+          {
+            "title": "Patent Granted",
+            "description": "Patent for innovative algorithm in image processing.",
+            "year": "2023",
+            "patentNumber": "IN345678",
+            "field": "Computer Vision"
+          },
+          {
+            "title": "Book Publication",
+            "description": "Published textbook on Advanced Machine Learning adopted by universities.",
+            "year": "2024",
+            "publisher": "Springer",
+            "subject": "Machine Learning"
+          }
+        ]
+      }
+    },
+    {
+      "id": "student_achievements",
+      "name": "Student Achievements",
+      "icon": "Award",
+      "content": {
+        "title": "Student Accomplishments",
+        "items": [
+          {
+            "title": "National Innovation Challenge Winner",
+            "description": "Students won first prize in national innovation competition.",
+            "year": "2024",
+            "competition": "National Level",
+            "team": "Team Innovators (5 members)"
+          },
+          {
+            "title": "Hackathon Champions",
+            "description": "Won the regional hackathon with an AI‑based solution for traffic management.",
+            "year": "2023",
+            "competition": "Regional Level",
+            "prize": "Rs. 1,00,000"
+          },
+          {
+            "title": "Paper Publication in IEEE",
+            "description": "Undergraduate students published research paper in IEEE conference.",
+            "year": "2024",
+            "conference": "IEEE International Conference",
+            "topic": "Machine Learning Applications"
+          }
+        ]
+      }
+    },
+    {
+      "id": "notable",
+      "name": "Notable Projects",
+      "icon": "BookOpen",
+      "content": {
+        "title": "Showcasing Notable Projects",
+        "items": [
+          {
+            "title": "AI Enhanced IoT based Water Management System",
+            "students": "AKSHAYA E (720821103009), KAMALESHWARI R (720821103046), KAVIN KUMAR P (720821103053), KAVIYASRI J (720821103054)",
+            "summary": "An automated surveillance system designed to protect agricultural crops from animal intrusions using Real-time Object Detection (YOLOv8), IoT-based deterrents, and Cloud monitoring to ensure crop safety without manual guarding.",
+            "image": "/ai_iot_water_management.jpg",
+            "year": "2024",
+            "type": "major",
+            "fullDetails": {
+              "Course": "20CS710 & Project Work",
+              "Source": "Niral Thiruvizha",
+              "WP_Attributes": "WP2, WP4, WP6",
+              "Proposed_EA": "EA1, EA3, EA5",
+              "PO_Mapped": "PO1, PO2, PO4",
+              "SDG_Goals": "SDG6, SDG11",
+              "PSO": "PSO2",
+              "Justification": "WP2 is relevant as the system utilizes data analysis and machine learning algorithms to process real-time data for drainage monitoring and decision-making. WP4 applies because the system integrates IoT and AI technologies, applying engineering principles for smart waste management solutions. WP6 aligns with the real-world application of IoT and AI for waste and drainage management, ensuring the system works effectively in urban environments."
+            }
+          },
+          {
+            "title": "Field Visit Tracker: Geo-Tagged Inspections with Digital Signatures",
+            "students": "SRIRAM B (720821103106), THIRUKUMARAN RP (720821103114), UDAY RAM S (720821103115)",
+            "summary": "The Field Visit Tracker is a digital system that modernizes inspections by officials, recording visits with geo-tagging, digital signatures, time, photos, and remarks, storing data in cloud dashboards for monitoring.",
+            "image": "/field_visit_tracker.jpg",
+            "year": "2024",
+            "type": "major",
+            "fullDetails": {
+              "Course": "20CS710 & Project Work",
+              "Source": "Niral Thiruvizha",
+              "WP_Attributes": "WP2, WP6, WP7",
+              "Proposed_EA": "EA1, EA2, EA4",
+              "PO_Mapped": "PO4, PO5, PO6",
+              "SDG_Goals": "SDG9, SDG11, SDG16",
+              "PSO": "PSO2",
+              "Justification": "An AI-enabled mobile application allows officials to conduct geo-tagged inspections and submit digitally authenticated reports in a secure and efficient manner. Inspection data uploaded to secure cloud storage with dashboards for HOD and District Collectors monitoring. This system ensures genuine, auditable, tamper-proof reports with accurate location and time recording."
+            }
+          },
+          {
+            "title": "Single-Window Platform to Streamline Approvals and Empower Entrepreneurial Success",
+            "students": "HARI HARAN S (720821103031), HARISH KEERTHI V (720821103036), HARISH S (720821103037), MAHALINGESHVARANATHAN N L (720821103062)",
+            "summary": "A unified digital portal designed to streamline government approvals for entrepreneurs. It uses AI-driven automation and real-time tracking to simplify complex regulatory processes into a single-window experience.",
+            "image": "/single_window_platform.jpg",
+            "year": "2024",
+            "type": "major",
+            "fullDetails": {
+              "Course": "20CS710 & Project Work",
+              "Source": "Niral Thiruvizha",
+              "WP_Attributes": "WP4, WP6, WP7",
+              "Proposed_EA": "EA1, EA2, E3",
+              "PO_Mapped": "PO5, P6, PO8",
+              "SDG_Goals": "SDG8, SDG9, SDG16",
+              "PSO": "PSO2",
+              "Justification": "WP4 applies as the system leverages engineering knowledge to design a comprehensive single-window platform that streamlines approval processes and enables efficient interaction between businesses and government agencies. WP6 aligns with the use of technology in creating an accessible and user-friendly platform that automates approvals and simplifies workflows."
+            }
+          },
+          {
+            "title": "Smart Parking Management System",
+            "students": "Sathana M (720821103097), Jahnavi P (720821103080)",
+            "summary": "IoT-based smart parking solution with real-time availability tracking and automated payment system.",
+            "image": "/smart_parking.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP1",
+              "WP2",
+              "WP3",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2",
+              "EA3"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO6"
+            ],
+            "pso": [
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG8",
+              "SDG9",
+              "SDG11"
+            ]
+          },
+          {
+            "title": "Heart Disease Prediction Using Machine Learning",
+            "students": "Sirwin Maharishi R S (720821103101), Sunil Kumar D (720821103108), Rithik S (720821103090)",
+            "summary": "ML-based predictive model for early heart disease detection using patient health metrics and risk factors.",
+            "image": "/heart_disease_ml.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP2",
+              "WP3",
+              "WP4",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO12"
+            ],
+            "pso": [
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG3"
+            ]
+          },
+          {
+            "title": "AI Based Farmer Assistance ChatBot",
+            "students": "Nilah Shareef (720821103074), Salah (720821103092)",
+            "summary": "Agricultural chatbot providing farmers with crop advice, weather updates, and pest management guidance.",
+            "image": "/farmer_chatbot.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP1",
+              "WP2",
+              "WP3",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2",
+              "EA3"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO6"
+            ],
+            "pso": [
+              "PSO1",
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG2",
+              "SDG8",
+              "SDG9"
+            ]
+          },
+          {
+            "title": "Medicinal Plants Detection Using Machine Learning",
+            "students": "Sriram B (720821103106), Thirukumaran R P (720821103114)",
+            "summary": "Image recognition system using ML to identify medicinal plants and provide information about their uses.",
+            "image": "/medicinal_plants_ml.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP2",
+              "WP3",
+              "WP4",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO12"
+            ],
+            "pso": [
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG3",
+              "SDG15"
+            ]
+          },
+          {
+            "title": "Intelligent Video Surveillance System",
+            "students": "Maddasani Manasa (720819104063), Pachigulla Deepthi (720819104080), Velaga Nikhila (720819104122)",
+            "summary": "AI-powered video surveillance system with real-time threat detection and automated alerts for enhanced security.",
+            "image": "/video_surveillance.jpg",
+            "year": "2023",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP2",
+              "WP5",
+              "WP6",
+              "WP7"
+            ],
+            "ea": [
+              "EA1",
+              "EA3",
+              "EA5"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO6"
+            ],
+            "pso": [
+              "PSO1",
+              "PSO2",
+              "PSO3"
+            ],
+            "sdg": [
+              "SDG16"
+            ]
+          },
+          {
+            "title": "ChatBot – Schemes of Government",
+            "students": "Shivani R (720821103098), Swetha A (720821103110), Pramtiti S (720821103082)",
+            "summary": "AI chatbot to help citizens understand and access various government schemes and welfare programs easily.",
+            "image": "/government_chatbot.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP2",
+              "WP3",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO5",
+              "PO12"
+            ],
+            "pso": [
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG9",
+              "SDG16"
+            ]
+          },
+          {
+            "title": "Sentiment Analysis for Social Media",
+            "students": "Rikshitha G (720821103089), Nithya Shree R K (720821103078), Priya M (720821103084)",
+            "summary": "NLP-based sentiment analysis tool to analyze social media posts and extract public opinion insights.",
+            "image": "/sentiment_analysis.jpg",
+            "year": "2024",
+            "type": "mini",
+            "courseCode": "20CS710",
+            "wp": [
+              "WP2",
+              "WP3",
+              "WP4",
+              "WP6"
+            ],
+            "ea": [
+              "EA1",
+              "EA2"
+            ],
+            "po": [
+              "PO1",
+              "PO2",
+              "PO3",
+              "PO4",
+              "PO5",
+              "PO6",
+              "PO8",
+              "PO12"
+            ],
+            "pso": [
+              "PSO2"
+            ],
+            "sdg": [
+              "SDG9",
+              "SDG16"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "internships",
+      "name": "Notable Internship",
+      "icon": "Briefcase",
+      "content": {
+        "title": "Academor Offer Letters – Business Development Executive",
+        "items": [
+          {
+            "ol_no": "AM8871",
+            "date": "21-January-2024",
+            "candidate_name": "Chinthalapalli Kiran Kumar Reddy",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8885",
+            "date": "21-January-2024",
+            "candidate_name": "Boppana Akash Sai Kumar",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8906",
+            "date": "21-January-2024",
+            "candidate_name": "Agarshana S",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8842",
+            "date": "21-January-2024",
+            "candidate_name": "Charan Gopi Yerramsetty",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8837",
+            "date": "21-January-2024",
+            "candidate_name": "Santhosh M",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8841",
+            "date": "21-January-2024",
+            "candidate_name": "Vinisha M",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8893",
+            "date": "21-January-2024",
+            "candidate_name": "Abisheik G",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8907",
+            "date": "21-January-2024",
+            "candidate_name": "Midhun R R",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "UNKNOWN",
+            "date": "21-January-2024",
+            "candidate_name": "Nithish P",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "UNKNOWN",
+            "date": "21-January-2024",
+            "candidate_name": "Vijay Anand",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8887",
+            "date": "21-January-2024",
+            "candidate_name": "Mohamedirfan K",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8909",
+            "date": "21-January-2024",
+            "candidate_name": "Nisha S",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8843",
+            "date": "21-January-2024",
+            "candidate_name": "Noufia Firthous B",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8896",
+            "date": "21-January-2024",
+            "candidate_name": "Aashad S",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8888",
+            "date": "21-January-2024",
+            "candidate_name": "Sai Santhosh Durbhakula",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8884",
+            "date": "21-January-2024",
+            "candidate_name": "Lam Amulya",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          },
+          {
+            "ol_no": "AM8914",
+            "date": "21-January-2024",
+            "candidate_name": "Ashish K S",
+            "designation": "Business Development Executive",
+            "date_of_joining": "7-February-2024",
+            "training_period": {
+              "from": "7-February-2024",
+              "to": "16-February-2024",
+              "paid": false
+            },
+            "on_job_training": {
+              "start_date": "17-February-2024",
+              "end_date": "16-August-2024"
+            },
+            "location": "Bangalore",
+            "stipend_per_month": 15000,
+            "incentives": 10000,
+            "monthly_target": 200000,
+            "pre_placement_offer": "4 to 6 LPA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "placements",
+      "name": "Placements",
+      "icon": "Briefcase",
+      "content": {
+        "title": "Placement Highlights",
+        "items": [
+          {
+            "title": "Placement Statistics 2023-2024",
+            "description": "The 2020-2024 batch achieved outstanding success with diverse high-value offers and premium company placements.",
+            "placed": "108 Students Placed",
+            "highest": "Rs. 6.40 LPA",
+            "average": "Rs. 3.29 LPA",
+            "companies": "41 Recruiters"
+          },
+          {
+            "title": "Placement Statistics 2022-2023",
+            "description": "A year of consistent growth with significant placements in top-tier technology firms and global corporations.",
+            "placed": "85 Students Placed",
+            "highest": "Rs. 7.00 LPA",
+            "average": "Rs. 3.59 LPA",
+            "companies": "26 Recruiters"
+          },
+          {
+            "title": "Placement Statistics 2021-2022",
+            "description": "Steady placement performance across multiple sectors and emerging tech companies despite market challenges.",
+            "placed": "53 Students Placed",
+            "highest": "Rs. 4.00 LPA",
+            "average": "Rs. 3.35 LPA",
+            "companies": "16 Recruiters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "professional",
+      "name": "Professional Society",
+      "icon": "Users",
+      "content": {
+        "title": "Professional Society Memberships",
+        "items": [
+          {
+            "title": "IEEE",
+            "description": "Institute of Electrical and Electronics Engineers",
+            "logo": "IEEE"
+          },
+          {
+            "title": "ICT Academy",
+            "description": "ICT Academy membership supporting faculty and students.",
+            "logo": "ict"
+          },
+          {
+            "title": "Computer Society of India",
+            "description": "Promotes IT professionals and student involvement.",
+            "logo": "csi"
+          }
+        ]
+      }
+    },
+    {
+  "id": "sdgs",
+  "name": "SDG Initiatives",
+  "icon": "Globe",
+  "content": {
+    "title": "Evidence of Addressing Sustainable Development Goals (SDG)",
+    "items": [
+      {
+        "id": 1,
+        "title": "SDG in Curriculum",
+        "description": "The department has seamlessly integrated SDG-related topics across multiple courses, including Problem Solving and Programming in C, Advanced C Programming and Data Structures I, Introduction to IoT and Embedded Programming, and Internship/Inplant Training.",
+        "icon": "BookOpen",
+        "image": "sdgCurriculum"
+      },
+      {
+        "id": 2,
+        "title": "SDG in Research/Capstone Projects",
+        "description": "The department actively engages in research and capstone projects that contribute to sustainable development. Students have undertaken various SDG-aligned projects, demonstrating innovation and social impact.",
+        "icon": "FlaskConical",
+        "image": "sdgResearch"
+      },
+      {
+        "id": 3,
+        "title": "SDG in Mini/Minor Projects",
+        "description": "Students have successfully developed impactful projects that contribute to sustainable development. One such project, Precision Blade Edge Decision submitted to L&T TECHgium, addresses key challenges in industrial manufacturing.",
+        "icon": "Lightbulb",
+        "image": "sdgMini"
+      },
+      {
+        "id": 4,
+        "title": "SDG in International/National Events",
+        "description": "The department frequently hosts symposiums, webinars, and guest lectures on SDG-driven themes, including Sustainable AI, Smart Cities, and Ethical Computing.",
+        "icon": "Calendar",
+        "image": "sdgEvents"
+      },
+      {
+        "id": 5,
+        "title": "SDG in Industry Collaborations",
+        "description": "The department has established strategic partnerships with industries and startups, leading to hands-on projects in clean technology, smart agriculture, and digital healthcare.",
+        "icon": "Handshake",
+        "image": "sdgIndustry"
+      },
+      {
+        "id": 6,
+        "title": "SDG in Institutional Practices",
+        "description": "The department has implemented various sustainable practices within the institution, including paperless documentation, energy-efficient computing labs, and digital learning platforms.",
+        "icon": "Building2",
+        "image": "sdgInstitutional"
+      }
+    ]
+  }
+    },
+    {
+      "id": "collaborations",
+      "name": "Powered by Industries",
+      "icon": "Briefcase",
+      "content": {
+        "title": "Collaboration & MoU Partners",
+        "items": [
+          {
+            "title": "IBM",
+            "description": "Curriculum integration and delivery in AI & Data Sciences.",
+            "logo": "ibm"
+          },
+          {
+            "title": "Google",
+            "description": "Academic partner with tools and resources for digital skills.",
+            "logo": "google"
+          },
+          {
+            "title": "Oracle Academy",
+            "description": "Membership providing resources to develop computing skills.",
+            "logo": "oracle"
+          },
+          {
+            "title": "Zoho",
+            "description": "Partner for training and internships in application development.",
+            "logo": "zoho"
+          },
+          {
+            "title": "Red Hat",
+            "description": "Alliance for Linux, cloud, and development technologies.",
+            "logo": "redhat"
+          },
+          {
+            "title": "Dell EMC",
+            "description": "Center of excellence in Data Science and Big Data Analytics.",
+            "logo": "dell"
+          },
+          {
+            "title": "VMware",
+            "description": "Center of excellence in cloud infrastructure services.",
+            "logo": "vmware"
+          },
+          {
+            "title": "CSS Corp",
+            "description": "Skills training and soft skills development.",
+            "logo": "csscorp"
+          },
+          {
+            "title": "Salesforce",
+            "description": "Partner for CRM using AI and app development.",
+            "logo": "salesforce"
+          },
+          {
+            "title": "NASSCOM",
+            "description": "Supports India as a global hub for emerging technologies.",
+            "logo": "nasscom"
+          },
+          {
+            "title": "UiPath",
+            "description": "Center of Excellence in Robotic Process Automation.",
+            "logo": "uipath"
+          },
+          {
+            "title": "Celonis",
+            "description": "Center of Excellence in Process Mining and Execution.",
+            "logo": "celonis"
+          },
+          {
+            "title": "Infosys Springboard",
+            "description": "Training and reskilling in technology.",
+            "logo": "infosys"
+          }
+        ]
+      }
+    },
+    {
+      "id": "alumni",
+      "name": "Alumni Network",
+      "icon": "Users",
+      "content": {
+        "title": "Distinguished Alumni",
+        "items": [
+          {
+            "title": "Rajesh Kumar - CEO, Tech Innovations",
+            "description": "Leading a Fortune 500 tech company.",
+            "batch": "2010",
+            "company": "Tech Innovations"
+          },
+          {
+            "title": "Priya Sharma - Senior Engineer, Google",
+            "description": "Working on AI projects at Google HQ.",
+            "batch": "2015",
+            "company": "Google"
+          },
+          {
+            "title": "Amit Patel - Founder, StartupXYZ",
+            "description": "Founded successful fintech startup.",
+            "batch": "2012",
+            "company": "StartupXYZ"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "events": [
+    {
+      "serialNo": "1",
+      "society": "IEEE",
+      "eventName": "Two Days National Conference on Computing for Sustainability: AI, Data Science and Smart Systems",
+      "level": "National",
+      "date": "28.03.2025 & 29.03.2025",
+      "year": "2024-25",
+      "image": "/Events/event 1.png",
+      "description": "A comprehensive two-day national conference focusing on sustainable computing solutions, artificial intelligence applications, data science innovations, and smart system architectures for environmental conservation.",
+      "highlights": [
+        "Keynote sessions by industry experts",
+        "Research paper presentations",
+        "Workshops on AI and sustainability",
+        "Networking opportunities"
+      ]
+    },
+    {
+      "serialNo": "2",
+      "society": "IEEE",
+      "eventName": "Workshop on IoT with Arduino",
+      "level": "College",
+      "date": "",
+      "year": "2024-25",
+      "image": "/Events/event 2.png",
+      "description": "Hands-on workshop providing practical experience in IoT development using Arduino microcontrollers, sensors, and wireless communication protocols.",
+      "highlights": [
+        "Arduino programming basics",
+        "Sensor integration techniques",
+        "IoT project development",
+        "Real-world applications"
+      ]
+    },
+    {
+      "serialNo": "3",
+      "society": "CSI",
+      "eventName": "Seminar on Generative AI",
+      "level": "National",
+      "date": "08.10.2024",
+      "year": "2024-25",
+      "image": "/Events/event 3.png",
+      "description": "An insightful seminar exploring the latest developments in generative artificial intelligence, including large language models, image generation, and AI ethics.",
+      "highlights": [
+        "ChatGPT and LLM applications",
+        "AI-powered content creation",
+        "Ethical considerations",
+        "Future of AI technology"
+      ]
+    },
+    {
+      "serialNo": "8",
+      "society": "IETE",
+      "eventName": "World Creativity and Innovation Day",
+      "level": "College",
+      "date": "21.04.2025",
+      "year": "2024-25",
+      "image": "/Events/event 8.png",
+      "description": "Celebrating World Creativity and Innovation Day with interactive sessions, innovation showcases, and creative problem-solving activities to inspire innovative thinking.",
+      "highlights": [
+        "Innovation showcase",
+        "Creative workshops",
+        "Student project exhibitions",
+        "Innovation awards"
+      ]
+    },
+    {
+      "serialNo": "9",
+      "society": "IETE",
+      "eventName": "Seminar on Quantum Computing",
+      "level": "College",
+      "date": "07.02.2025",
+      "year": "2024-25",
+      "image": "/Events/event 9.png",
+      "description": "Exploring the revolutionary world of quantum computing, quantum algorithms, and their potential applications in solving complex computational problems.",
+      "highlights": [
+        "Quantum computing fundamentals",
+        "Quantum algorithms",
+        "Industry applications",
+        "Future of computing"
+      ]
+    },
+    {
+      "serialNo": "12",
+      "society": "CII Yi",
+      "eventName": "Idea Competition",
+      "level": "College",
+      "date": "25.11.2024",
+      "year": "2024-25",
+      "image": "/Events/event 4.png",
+      "description": "An inter-collegiate competition encouraging students to present innovative business ideas and entrepreneurial concepts with mentorship from industry professionals.",
+      "highlights": [
+        "Pitch presentations",
+        "Mentorship sessions",
+        "Prize distribution",
+        "Networking with entrepreneurs"
+      ]
+    },
+    {
+      "serialNo": "13",
+      "society": "CII Yi",
+      "eventName": "Workshop on Business Model Canvas (BMC)",
+      "level": "College",
+      "date": "07.01.2025",
+      "year": "2024-25",
+      "image": "/Events/event 5.png",
+      "description": "Interactive workshop teaching students how to create effective business models using the Business Model Canvas framework for startup success.",
+      "highlights": [
+        "BMC framework training",
+        "Case study analysis",
+        "Group exercises",
+        "Business planning tools"
+      ]
+    },
+    {
+      "serialNo": "14",
+      "society": "AICTE Spices Club",
+      "eventName": "SPARTANZ",
+      "level": "National",
+      "date": "22.04.2025",
+      "year": "2024-25",
+      "image": "/Events/event 6.png",
+      "description": "Annual national-level technical symposium featuring technical competitions, paper presentations, project exhibitions, and workshops across multiple engineering domains.",
+      "highlights": [
+        "Technical competitions",
+        "Paper presentations",
+        "Project exhibitions",
+        "Guest lectures"
+      ]
+    },
+    {
+      "serialNo": "15",
+      "society": "AICTE Spices Club",
+      "eventName": "Webinar on Demystifying Cyber Security",
+      "level": "College",
+      "date": "23.07.2024",
+      "year": "2024-25",
+      "image": "/Events/event 7.png",
+      "description": "Online webinar covering essential cybersecurity concepts, threat detection, secure coding practices, and protection strategies for digital assets.",
+      "highlights": [
+        "Threat landscape overview",
+        "Security best practices",
+        "Ethical hacking intro",
+        "Career opportunities"
+      ]
+    },
+    {
+      "serialNo": "16",
+      "society": "SERB",
+      "eventName": "Two Days National Level Seminar on GenAI Diagnostics and Sustainability for shaping the future of Healthcare",
+      "level": "National Event",
+      "date": "21.08.2024 to 22.08.2024",
+      "year": "2024-25",
+      "image": "/Events/event 10.png",
+      "description": "National seminar exploring the intersection of generative AI and healthcare diagnostics, focusing on sustainable medical technologies and AI-powered healthcare solutions.",
+      "highlights": [
+        "AI in medical diagnostics",
+        "Sustainable healthcare tech",
+        "Expert panel discussions",
+        "Research collaborations"
+      ]
+    },
+    {
+      "serialNo": "17",
+      "society": "DST",
+      "eventName": "Six Weeks Technology Based Entrepreneurship Development Programme on Smart IOT",
+      "level": "National Event",
+      "date": "02.04.2025 to 21.05.2025",
+      "year": "2024-25",
+      "image": "/Events/event 11.png",
+      "description": "Comprehensive six-week program combining IoT technology training with entrepreneurship skills, guiding students from concept to prototype development.",
+      "highlights": [
+        "IoT product development",
+        "Business model creation",
+        "Prototype building",
+        "Investor pitch training"
+      ]
+    },
+    {
+      "serialNo": "1",
+      "society": "IEEE",
+      "eventName": "Seminar on Green Computing and Sustainable IT",
+      "level": "National",
+      "date": "23.06.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "2",
+      "society": "IETE & CSI",
+      "eventName": "Seminar on Methodologies to Attain Higher Ranking and Research Activities",
+      "level": "College",
+      "date": "15.07.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "3",
+      "society": "Spices Club",
+      "eventName": "Hands on Workshop Virtual Lab – An Learner Perspective",
+      "level": "College",
+      "date": "21.08.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "4",
+      "society": "Spices Club",
+      "eventName": "Internal Smart India Hackathon 2023",
+      "level": "College",
+      "date": "12.09.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "5",
+      "society": "Spices Club",
+      "eventName": "Motivational Session by Successful Innovators",
+      "level": "National",
+      "date": "11.10.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "6",
+      "society": "ISTE",
+      "eventName": "Exposure and Field Visit for Problem Identification",
+      "level": "National",
+      "date": "13.10.2023",
+      "year": "2023-24",
+      "image": "/Events/exposure and filed visit.png",
+      "description": "National level seminar featuring exposure visits and field trips to identify real-world problems, fostering practical problem-solving skills and industry-academia collaboration.",
+      "highlights": [
+        "Industry exposure visits",
+        "Real-world problem identification",
+        "Field study techniques",
+        "Practical learning approach"
+      ],
+      "coordinator": "Mrs. R.T. Subhalakshmi, AP/CSE"
+    },
+    {
+      "serialNo": "7",
+      "society": "ICT Academy",
+      "eventName": "Data Science and Big Data Analytics under Capgemini women Transformation Program",
+      "level": "National",
+      "date": "07.11.2023",
+      "year": "2023-24",
+      "image": "/Events/capgemini.png",
+      "description": "Comprehensive training program on data science and big data analytics under Capgemini Women Transformation Program in association with ICT Academy, empowering women in technology.",
+      "highlights": [
+        "Data science fundamentals",
+        "Big data analytics tools",
+        "Women empowerment in tech",
+        "Industry collaboration with Capgemini"
+      ],
+      "coordinator": "ICT Academy & Capgemini"
+    },
+    {
+      "serialNo": "8",
+      "society": "Spices Club",
+      "eventName": "Workshop on Entrepreneurship and Innovation as career opportunity",
+      "level": "National",
+      "date": "08.11.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "9",
+      "society": "Spices Club",
+      "eventName": "National Educational Day",
+      "level": "National",
+      "date": "11.11.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "10",
+      "society": "Spices Club",
+      "eventName": "Webinar on Become a Shift Left Engineer with DevOps",
+      "level": "National",
+      "date": "13.12.2023",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "11",
+      "society": "Spices Club",
+      "eventName": "Workshop on Design Thinking, Critical thinking and Innovation design",
+      "level": "National",
+      "date": "15.12.2023 - 16.12.2023",
+      "year": "2023-24",
+      "image": "/Events/design thinking.png",
+      "description": "Intensive two-day workshop exploring design thinking methodologies, critical thinking frameworks, and innovation design principles to foster creative problem-solving and innovative mindset.",
+      "highlights": [
+        "Design thinking methodology",
+        "Critical thinking frameworks",
+        "Innovation design principles",
+        "Hands-on ideation sessions"
+      ],
+      "coordinator": "AICTE SPICES Club"
+    },
+    {
+      "serialNo": "12",
+      "society": "IEEE",
+      "eventName": "Workshop on Data Analytics and Visualization Tools",
+      "level": "National",
+      "date": "09.01.2024",
+      "year": "2023-24",
+      "image": "/Events/data visualization.png",
+      "description": "One day national level workshop on data analytics and visualization tools, covering modern analytics platforms, visualization techniques, and data-driven decision making strategies.",
+      "highlights": [
+        "Data analytics fundamentals",
+        "Visualization tools and techniques",
+        "Data-driven insights",
+        "Hands-on tool demonstrations"
+      ],
+      "coordinator": "IEEE Student Chapter"
+    },
+    {
+      "serialNo": "13",
+      "society": "CII Yi",
+      "eventName": "Yuva Launch and Interaction with Young Brains",
+      "level": "National",
+      "date": "20.02.2024",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "14",
+      "society": "CSI",
+      "eventName": "Seminar on Blockchain Beyond Cryptocurrencies",
+      "level": "National",
+      "date": "06.03.2024",
+      "year": "2023-24",
+      "image": "/Events/block chain based crypto.png",
+      "description": "National seminar exploring blockchain technology applications beyond cryptocurrencies, including smart contracts, supply chain management, healthcare, and decentralized systems.",
+      "highlights": [
+        "Blockchain technology fundamentals",
+        "Smart contracts and DApps",
+        "Enterprise blockchain applications",
+        "Future of distributed ledger technology"
+      ],
+      "coordinator": "CSI Student Chapter"
+    },
+    {
+      "serialNo": "15",
+      "society": "CII Yi",
+      "eventName": "Workshop on Business Model Canvas (BMC)",
+      "level": "National",
+      "date": "14.03.2024 – 15.03.2024",
+      "year": "2023-24",
+      "image": "/Events/bmc 1.png",
+      "description": "Two-day workshop on Business Model Canvas methodology, teaching participants how to design, innovate, and pivot business models for startups and existing enterprises.",
+      "highlights": [
+        "Business Model Canvas framework",
+        "Value proposition design",
+        "Customer segment analysis",
+        "Revenue stream strategies"
+      ],
+      "coordinator": "CII Young India"
+    },
+    {
+      "serialNo": "16",
+      "society": "CII Yi",
+      "eventName": "Workshop on Innovation and Entrepreneurship outreach program",
+      "level": "National",
+      "date": "15.03.2024",
+      "year": "2023-24",
+      "image": "/Events/inovation and entreprenurship outreach.png",
+      "description": "Comprehensive outreach program on innovation and entrepreneurship, connecting aspiring entrepreneurs with industry mentors, funding opportunities, and ecosystem support.",
+      "highlights": [
+        "Innovation ecosystem overview",
+        "Entrepreneurship development",
+        "Mentorship and networking",
+        "Funding and incubation support"
+      ],
+      "coordinator": "Ms. K.S. Pavithra, AP/CSE"
+    },
+    {
+      "serialNo": "17",
+      "society": "IEEE",
+      "eventName": "Project Expo",
+      "level": "National",
+      "date": "27.03.2024",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "18",
+      "society": "ICT Academy",
+      "eventName": "Skillathon",
+      "level": "National",
+      "date": "25.04.2024",
+      "year": "2023-24"
+    },
+    {
+      "serialNo": "19",
+      "society": "Spices Club",
+      "eventName": "Spartanz2K24",
+      "level": "National",
+      "date": "16.04.2024",
+      "year": "2023-24",
+      "image": "/Events/symposium 2024.png",
+      "description": "National level technical symposium SPARTANZ 2K24 featuring technical paper presentations, coding competitions, project exhibitions, and workshops across various computer science domains.",
+      "highlights": [
+        "Technical competitions",
+        "Paper presentations",
+        "Project exhibitions",
+        "Networking opportunities"
+      ],
+      "coordinator": "AICTE SPICES Club"
+    },
+    {
+      "serialNo": "20",
+      "society": "CSI",
+      "eventName": "Workshop on Cyber Security",
+      "level": "National",
+      "date": "19.10.2024",
+      "year": "2023-24",
+      "image": "/Events/cyber secuirty 2024.png",
+      "description": "Comprehensive workshop on cybersecurity covering threat landscape, security protocols, network defense strategies, and hands-on experience with security tools and techniques.",
+      "highlights": [
+        "Cybersecurity fundamentals",
+        "Threat detection and mitigation",
+        "Network security protocols",
+        "Hands-on security tools training"
+      ],
+      "coordinator": "P. Jeevitha, AP/CSE & K. Murugan, AP/CSE"
+    },
+    {
+      "serialNo": "1",
+      "society": "CSI",
+      "eventName": "Workshop on Ethical Hacking and Penetration Testing: A Hands-On Approach",
+      "level": "National",
+      "date": "13.07.2022",
+      "year": "2022-23",
+      "image": "/Events/ethicalworshop.png",
+      "description": "Comprehensive hands-on workshop covering ethical hacking fundamentals, penetration testing methodologies, vulnerability assessment, and cybersecurity best practices with practical lab sessions.",
+      "highlights": [
+        "Ethical hacking techniques",
+        "Penetration testing tools and methods",
+        "Vulnerability assessment and exploitation",
+        "Real-world security scenarios"
+      ],
+      "coordinator": "CSI Student Chapter"
+    },
+    {
+      "serialNo": "2",
+      "society": "CSIR",
+      "eventName": "Adaptive AI Based Health Surveillance Systems",
+      "level": "National",
+      "date": "17.08.2022 & 18.08.2022",
+      "year": "2022-23"
+    },
+    {
+      "serialNo": "3",
+      "society": "Spices Club",
+      "eventName": "Session on Entrepreneurship on World Entrepreneurs Day",
+      "level": "National",
+      "date": "22.08.2022",
+      "year": "2022-23",
+      "image": "/Events/entreprenuership.png",
+      "description": "Inspirational session celebrating World Entrepreneurs Day featuring successful entrepreneurs sharing their startup journey, business strategies, and insights on building innovative ventures.",
+      "highlights": [
+        "Entrepreneurial success stories",
+        "Startup ecosystem insights",
+        "Innovation and business development",
+        "Expert guidance from Grahaa Space"
+      ],
+      "resourcePerson": "Mr. Ramesh Kumar V, Co-Founder, Grahaa Space, Bengaluru",
+      "coordinator": "Dr. A. Jameer Basha, HOD/CSE"
+    },
+    {
+      "serialNo": "4",
+      "society": "Spices Club",
+      "eventName": "Smart India Hackathon (SIH 2022) – Grand Finale Software Edition",
+      "level": "National",
+      "date": "25.08.2022 – 26.08.2022",
+      "year": "2022-23"
+    },
+    {
+      "serialNo": "5",
+      "society": "IEEE",
+      "eventName": "Seminar on Integrating Agile and DevOps to accelerate software development",
+      "level": "National",
+      "date": "09.09.2022",
+      "year": "2022-23"
+    },
+    {
+      "serialNo": "6",
+      "society": "ICT Academy",
+      "eventName": "Microsoft Philanthropies Cyber Shiksaa for Educators",
+      "level": "National",
+      "date": "31.10.2022",
+      "year": "2022-23",
+      "image": "/Events/cybersiksha.png",
+      "description": "A CSR Initiative of Microsoft Philanthropy implemented by ICT Academy, focusing on cybersecurity awareness and training for educators and students to build safer digital learning environments.",
+      "highlights": [
+        "Cybersecurity fundamentals for educators",
+        "Safe digital practices",
+        "Microsoft security tools and resources",
+        "Building cyber-aware institutions"
+      ],
+      "coordinator": "ICT Academy"
+    },
+    {
+      "serialNo": "7",
+      "society": "Spices Club",
+      "eventName": "Hands on Training on Thrive knowledge in Agile methodology Deep dive into DevOps Mindset Blend into Cloud Computing",
+      "level": "National",
+      "date": "17.11.2022",
+      "year": "2022-23",
+      "image": "/Events/thrive.png",
+      "description": "Intensive hands-on training program combining Agile methodology, DevOps practices, and cloud computing concepts to equip participants with modern software development and deployment skills.",
+      "highlights": [
+        "Agile methodology practices",
+        "DevOps culture and tools",
+        "Cloud computing fundamentals",
+        "Integrated software development approach"
+      ],
+      "coordinator": "AICTE SPICES Club"
+    },
+    {
+      "serialNo": "8",
+      "society": "IEEE",
+      "eventName": "Guest Lecture on Reinforcement Learning: The Future of Intelligent Decision Making",
+      "level": "National",
+      "date": "15.12.2022",
+      "year": "2022-23"
+    },
+    {
+      "serialNo": "9",
+      "society": "CSI",
+      "eventName": "Guest Lecture on Securing Cloud-Based IT Infrastructure and Services",
+      "level": "National",
+      "date": "24.01.2023",
+      "year": "2022-23",
+      "image": "/Events/securing cloud based it.png",
+      "description": "Expert guest lecture on cloud security architecture, infrastructure protection strategies, compliance frameworks, and best practices for securing cloud-based IT services and infrastructure.",
+      "highlights": [
+        "Cloud security architecture",
+        "Infrastructure protection strategies",
+        "Compliance and governance",
+        "Security best practices for cloud services"
+      ],
+      "coordinator": "CSI Student Chapter"
+    },
+    {
+      "serialNo": "10",
+      "society": "Spices Club",
+      "eventName": "Hindusthan Innovation Contest (HIC) 2023",
+      "level": "College",
+      "date": "22.02.2023 & 23.02.2023",
+      "year": "2022-23",
+      "image": "/Events/hic 2023.png",
+      "description": "Inter/Intra college innovation competition organized by the Department of Computer Science and Engineering in association with Institution's Innovation Council to foster creative problem-solving and entrepreneurial thinking.",
+      "highlights": [
+        "Innovation and ideation competition",
+        "Project presentations and demos",
+        "Mentorship from IIC",
+        "Entrepreneurship development"
+      ],
+      "coordinator": "Dr. A. Jameer Basha, HOD/CSE & IIC"
+    },
+    {
+      "serialNo": "11",
+      "society": "Spices Club",
+      "eventName": "National Level Technical Symposium SPARTANZ-2K23",
+      "level": "National",
+      "date": "11.03.2023",
+      "year": "2022-23",
+      "image": "/Events/symposium.png",
+      "description": "National level technical symposium featuring technical paper presentations, project exhibitions, coding competitions, and guest lectures by industry experts across multiple domains of computer science.",
+      "highlights": [
+        "Technical paper presentations",
+        "Project exhibitions",
+        "Coding competitions",
+        "Industry expert sessions"
+      ],
+      "coordinator": "AICTE SPICES Club"
+    },
+    {
+      "serialNo": "12",
+      "society": "SERB",
+      "eventName": "Seminar on Transforming Digital Healthcare with Adaptive Artificial Intelligence",
+      "level": "National",
+      "date": "15.03.2023 - 17.03.2023",
+      "year": "2022-23"
+    },
+    {
+      "serialNo": "13",
+      "society": "IEEE",
+      "eventName": "Seminar on Green Computing and Sustainable IT",
+      "level": "National",
+      "date": "23.06.2023",
+      "year": "2022-23",
+      "image": "/Events/green computing.png",
+      "description": "One day national level seminar on green computing practices, sustainable IT infrastructure, energy-efficient computing, and environmental responsibility in technology sector.",
+      "highlights": [
+        "Green computing principles",
+        "Energy-efficient technologies",
+        "Sustainable IT practices",
+        "Environmental impact reduction"
+      ],
+      "coordinator": "Dr. Jayasudha D, AP/CSE"
+    },
+    {
+      "serialNo": "1",
+      "society": "Spices Club",
+      "eventName": "Webinar on Exploring the Internet of Things (IoT) in Education",
+      "level": "National",
+      "date": "10.06.2021",
+      "year": "2021-22",
+      "image": "/Events/exploring the iot.png",
+      "description": "An insightful webinar exploring the applications and integration of Internet of Things technology in educational environments, smart classrooms, and e-learning platforms.",
+      "highlights": [
+        "IoT in smart classrooms",
+        "Educational IoT applications",
+        "Future of connected learning",
+        "Real-world use cases"
+      ],
+      "resourcePerson": "Mr. Keshavaram S, Ernst & Young Global Limited, Kochi",
+      "coordinator": "Dr.S.Lokesh, ASP/CSE & Ms.B.Kiruba, AP/CSE"
+    },
+    {
+      "serialNo": "2",
+      "society": "Spices Club",
+      "eventName": "Webinar on Exploring Career in Data",
+      "level": "National",
+      "date": "10.06.2021",
+      "year": "2021-22",
+      "image": "/Events/career in data.png",
+      "description": "Expert insights into career opportunities in data science, business intelligence, and data analytics from industry professionals at leading tech companies.",
+      "highlights": [
+        "Career paths in data science",
+        "Skills required for data roles",
+        "Industry trends and opportunities",
+        "Expert guidance from PayPal & DigiCert"
+      ],
+      "resourcePerson": "Srinivas Kannan, Business Intelligence Developer, DigiCert & Aparna Vasudevan, Data Scientist, PayPal",
+      "coordinator": "Dr.S.Lokesh, ASP/CSE & Mr.R.Arun, AP/CSE"
+    },
+    {
+      "serialNo": "3",
+      "society": "Spices Club",
+      "eventName": "Webinar on We Don't make Devops We make Devops Better",
+      "level": "National",
+      "date": "15.06.2021",
+      "year": "2021-22",
+      "image": "/Events/devops 1.png",
+      "description": "Advanced webinar on DevOps best practices, continuous integration/deployment strategies, and modern DevOps tools used in enterprise environments.",
+      "highlights": [
+        "DevOps best practices",
+        "CI/CD pipeline optimization",
+        "Enterprise DevOps tools",
+        "Industry insights from NTT Data"
+      ],
+      "resourcePerson": "Er. T. Vijay Prabakar, Senior DevOps Engineer, NTT Data Corporation, Bangalore",
+      "coordinator": "Mr. M. Devendran, AP/CSE & Dr. S. Ramasamy, ASP/CSE"
+    },
+    {
+      "serialNo": "4",
+      "society": "Spices Club",
+      "eventName": "Webinar on Cloud Platforms for Rapid Application Development",
+      "level": "National",
+      "date": "16.06.2021",
+      "year": "2021-22",
+      "image": "/Events/cloud platforms for rapid.png",
+      "description": "Comprehensive session on leveraging cloud platforms for rapid application development, serverless architecture, and modern cloud-native development practices.",
+      "highlights": [
+        "Cloud-native development",
+        "Rapid application frameworks",
+        "Serverless architecture",
+        "Expert insights from IBM"
+      ],
+      "resourcePerson": "Mr. Logesh Rajamanickam, Senior Software Engineer, IBM",
+      "coordinator": "Dr.S.Lokesh, ASP/CSE & Mr.Manickaraja, AP/CSE"
+    },
+    {
+      "serialNo": "5",
+      "society": "Spices Club",
+      "eventName": "Webinar on Make Yourself at Home with Android Developer",
+      "level": "National",
+      "date": "17.06.2021",
+      "year": "2021-22",
+      "image": "/Events/Android dev.png",
+      "description": "Hands-on webinar covering Android application development fundamentals, UI/UX design patterns, and practical development techniques for mobile applications.",
+      "highlights": [
+        "Android development basics",
+        "UI/UX design patterns",
+        "App development lifecycle",
+        "Practical coding techniques"
+      ],
+      "resourcePerson": "Er. E. Jeevanandham, Android Developer, Accent Techno Soft, Coimbatore",
+      "coordinator": "Mr.Arun, AP/CSE & Mrs.S.Priyadharshini, AP/CSE"
+    },
+    {
+      "serialNo": "6",
+      "society": "Spices Club",
+      "eventName": "Webinar on Various Technologies for Solar Panel Monitoring and Maintenance",
+      "level": "National",
+      "date": "18.06.2021",
+      "year": "2021-22",
+      "image": "/Events/solar panel.png",
+      "description": "Exploring cutting-edge technologies for solar panel monitoring, predictive maintenance, and IoT-based renewable energy management systems.",
+      "highlights": [
+        "Solar monitoring technologies",
+        "IoT in renewable energy",
+        "Predictive maintenance systems",
+        "International perspectives"
+      ],
+      "resourcePerson": "Mr. Surendher, Director, SNETEL Technologies CO., LTD, Vietnam & Mr. Ramesh Kumar V, Co-Founder, Grahaa Space, Bangalore",
+      "coordinator": "Dr.S.Lokesh, AP/CSE & Dr.R.Kala, AP/CSE"
+    },
+    {
+      "serialNo": "7",
+      "society": "Spices Club",
+      "eventName": "Webinar on Data Science in Healthcare",
+      "level": "National",
+      "date": "25.06.2021",
+      "year": "2021-22",
+      "image": "/Events/data science in healthcare.png",
+      "description": "Exploring the transformative role of data science in healthcare, including patient care analytics, medical imaging, predictive diagnostics, and health informatics.",
+      "highlights": [
+        "Healthcare analytics applications",
+        "Predictive diagnostics",
+        "Medical data mining",
+        "Insights from Athena Health"
+      ],
+      "resourcePerson": "Mr. Pradeep Daniel, Senior Architect, Athena Health Systems",
+      "coordinator": "Mrs.A.Benazir Begum, AP/CSE & Mr.A.Velusamy, AP/CSE"
+    },
+    {
+      "serialNo": "8",
+      "society": "Spices Club",
+      "eventName": "Webinar on Recent Trends in IT and How to Improve Your Technical and Non-technical skill sets",
+      "level": "National",
+      "date": "26.06.2021",
+      "year": "2021-22"
+    },
+    {
+      "serialNo": "9",
+      "society": "Spices Club",
+      "eventName": "Webinar on Getting Started with D-centralized Apps",
+      "level": "National",
+      "date": "03.07.2021",
+      "year": "2021-22"
+    },
+    {
+      "serialNo": "10",
+      "society": "Spices Club",
+      "eventName": "Webinar on Digital Payments",
+      "level": "National",
+      "date": "17.07.2021",
+      "year": "2021-22",
+      "image": "/Events/digital payments.png",
+      "description": "Comprehensive overview of digital payment systems, fintech innovations, payment gateway technologies, and the future of cashless transactions.",
+      "highlights": [
+        "Digital payment ecosystems",
+        "Fintech innovations",
+        "Payment security",
+        "Global payment trends"
+      ],
+      "resourcePerson": "Er. Pradeep Thangaraj, Senior Product Manager, USA",
+      "coordinator": "Mr.R.Arun, AP/CSE & Ms.R.Kala, AP/CSE"
+    },
+    {
+      "serialNo": "11",
+      "society": "Spices Club",
+      "eventName": "Workshop on Problem Solving and Ideation",
+      "level": "National",
+      "date": "17.12.2021",
+      "year": "2021-22",
+      "image": "/Events/prblm solving.png",
+      "description": "Interactive workshop focusing on creative problem-solving techniques, ideation methodologies, design thinking processes, and innovation frameworks.",
+      "highlights": [
+        "Design thinking methodology",
+        "Creative problem solving",
+        "Ideation techniques",
+        "Innovation frameworks"
+      ],
+      "resourcePerson": "Dr. Aruneswar A.R, Developer, Sai Incubation Center, Coimbatore",
+      "coordinator": "Dr. A. Jameer Basha, HOD/CSE"
+    },
+    {
+      "serialNo": "12",
+      "society": "Spices Club",
+      "eventName": "Pitching Event for ideas Scouted and linkage with Innovation Ambassadors for mentorship support",
+      "level": "National",
+      "date": "17.12.2021 (2pm)",
+      "year": "2021-22"
+    },
+    {
+      "serialNo": "13",
+      "society": "Spices Club",
+      "eventName": "Hindusthan Innovation Contest (HIC) 2022",
+      "level": "College",
+      "date": "05.01.2022",
+      "year": "2021-22"
+    },
+    {
+      "serialNo": "14",
+      "society": "CSI",
+      "eventName": "Guest Lecture on Wireless Network Security for Protecting Wi-Fi Networks from Attacks",
+      "level": "National",
+      "date": "12.04.2022",
+      "year": "2021-22"
+    },
+    {
+      "serialNo": "15",
+      "society": "IEEE",
+      "eventName": "Seminar on Data Privacy in Cloud Computing",
+      "level": "National",
+      "date": "24.03.2022",
+      "year": "2021-22",
+      "image": "/Events/data privacy in cloud.png",
+      "description": "National level seminar addressing critical data privacy concerns in cloud computing, data protection regulations, encryption techniques, and security compliance standards.",
+      "highlights": [
+        "Cloud data privacy challenges",
+        "Encryption and security protocols",
+        "Compliance standards (GDPR, etc.)",
+        "Best practices for data protection"
+      ],
+      "coordinator": "IEEE Student Chapter"
+    },
+    {
+      "serialNo": "16",
+      "society": "Spices Club",
+      "eventName": "Webinar on IoT & implication using python with usage in Business Analytic",
+      "level": "National",
+      "date": "14.05.2022",
+      "year": "2021-22"
+    }
+  ]
+}

@@ -1,0 +1,1640 @@
+[
+  {
+    "academic_year": "2023-2024",
+    "prize_winners": [],
+    "student_participation": [
+      {
+        "name": "AKASH N",
+        "title": "CODE LEAGUE",
+        "event": "IRISH- 2K23",
+        "venue": "P.A COLLEGE OF \nENGINEERING AND \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "16-06-2023",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "VIKRAM S",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "07-11-2023",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "YUVARAAJ S",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "07-11-2023",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "ASHWIN M",
+        "title": "PAPER’NZA",
+        "event": "CBEYONZ’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "15-02-2024",
+        "participation": "2ND PRICE"
+      },
+      {
+        "name": "KISHORE P",
+        "title": "PAPER PRESENTATION",
+        "event": "CRYPTERA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "02-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "HARISH B",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNICAL QUIZ",
+        "venue": "SRI KRISHNA ARTS \nAND SCIENCE \nCOLLEGE - COIMBATORE",
+        "date": "04.03.2024",
+        "participation": "1ST PLACE"
+      },
+      {
+        "name": "HARISH P",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNICAL QUIZ",
+        "venue": "SRI KRISHNA ARTS AND SCIENCE \nCOLLEGE - COIMBATORE",
+        "date": "04.03.2024",
+        "participation": "1ST PLACE"
+      },
+      {
+        "name": "ARUN S",
+        "title": "PAPERPULSE",
+        "event": "EPOCH 2024",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "15-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "MOHAMED HALIF \nA",
+        "title": "CODE IN CHOS",
+        "event": "CODE IN CHOS",
+        "venue": "MADRAS INSTITUTE \nOF TECHNOLOGY - CHENNAI",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "RUNNER"
+      },
+      {
+        "name": "HARIPRASAD R S",
+        "title": "CODE IN CHOS",
+        "event": "CODE IN CHOS",
+        "venue": "MADRAS INSTITUTE \nOF TECHNOLOGY - CHENNAI",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "RUNNER"
+      },
+      {
+        "name": "SANJAY S",
+        "title": "PAPER PRESENTATION",
+        "event": "V-PRAYUKTI’24",
+        "venue": "BANNARI AMMAN INSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "27-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "POONTHAMILAN M",
+        "title": "PAPER \nPRESENTATION",
+        "event": "V-PRAYUKTI’24",
+        "venue": "BANNARI AMMAN INSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "27-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "SUMEDHAS V",
+        "title": "REVERSE CODING",
+        "event": "HECURA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "28-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "NISHA S",
+        "title": "DEBUGGING",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE \nOF ENGINEERING \nAND TECHNOLOGY \n- COIMBATORE",
+        "date": "28-03-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "MIDHUN RR",
+        "title": "DEBUGGING",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE \nOF ENGINEERING \nAND TECHNOLOGY - COIMBATORE",
+        "date": "28-03-2024",
+        "participation": "2ND PRICE"
+      },
+      {
+        "name": "KAMARAJ N",
+        "title": "CODE ZENITH",
+        "event": "GENESIZ’S 2K24",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "02-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "NITHISH P",
+        "title": "DEBUGGING",
+        "event": "QUANTAS-24",
+        "venue": "VINAYAKA \nMISSION’S \nKIRUPANANDA \nVARIYAR \nENGINEERING \nCOLLEGE -SALEM",
+        "date": "03-04-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "MONISHA M",
+        "title": "BLIND CODING",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "BARATH V",
+        "title": "PAPER \nPRESENTATION",
+        "event": "CELESTIX 2024",
+        "venue": "VALALAR  COLLEG E PF ENGINEERING \nAND TECHNOLOGY \n- ERODE",
+        "date": "05-04-2024",
+        "participation": "2ND PRICE"
+      },
+      {
+        "name": "NIRMAL DEV M",
+        "title": "PAPER PRESENTATION",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "KAVIYA S",
+        "title": "PAPER \nPRESENTATION",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "GOMATHI D",
+        "title": "PAPER \nPRESENTATION",
+        "event": "CELESTIX 2024",
+        "venue": "VALALAR  COLL73E\nGE PF \nENGINEERING AND \nTECHNOLOGY - \nERODE",
+        "date": "05-04-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "SANJAY P",
+        "title": "PAPER PRESENTATION",
+        "event": "CELESTIX 2024",
+        "venue": "VALALAR  COLLEG E PF ENGINEERING \nAND TECHNOLOGY \n- ERODE",
+        "date": "05-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "GOBI R",
+        "title": "TECHNICAL DEBATE",
+        "event": "TECHFEST 2K24",
+        "venue": "NEHR69U INSTITUTE OF \nENGI70NEERING \nAND \nTECH71NOLOGY – \nCOIMBATOR72E",
+        "date": "16-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "SIVAMANICKAM \nP",
+        "title": "CODE BOAT",
+        "event": "TECHNOFEST 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "22-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "SANKU PAVAN KUMAR",
+        "title": "PAPER SCRIPTUM",
+        "event": "DESIGNZIA 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "NAVANEETH",
+        "title": "CODING",
+        "event": "CYNOSURE 2K24",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "SANJAY VV",
+        "title": "PROJECT EXPO",
+        "event": "PROJECT EXPO",
+        "venue": "KARPAGAM \nINSTITUTIONS - \nCOIMBATORE",
+        "date": "22-05-2024",
+        "participation": "1ST PRICE"
+      },
+      {
+        "name": "SANJAY VV    SANKARA \nNARAYANAN V",
+        "title": "PROJECT EXPO",
+        "event": "PROJECT EXPO",
+        "venue": "PA COLLEGE OF \nENGINEERING – \nPOLLACHI \nCOIMBATORE",
+        "date": "26.05.2024",
+        "participation": "3RD PRICE"
+      },
+      {
+        "name": "NAUFFAL \nAHAMED K",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "SRI KRISHNA \nCOLLEGE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "08.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MAHESHPRAVEE\nN E",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "SRI KRISHNA \nCOLLEGE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "08.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MRIDUL P",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "SRI KRISHNA \nCOLLEGE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "08.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIK R",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-\n2023",
+        "venue": "SRI EESHWAR \nCOLLEGE OF \nENGINEERING - \nCOIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "AADHARASH A",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-\n2023",
+        "venue": "SRI EESHWAR \nCOLLEGE OF \nENGINEERING - \nCOIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MADHULIKA M",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-\n2023",
+        "venue": "SRI EESHWAR \nCOLLEGE OF \nENGINEERING - \nCOIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "THIRISHA S",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NITHISH P",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA INSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIN C",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KISHORE R",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON \n2024 BY AIC \nRAISE",
+        "venue": "AIC RAISE",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JAGAN A",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON \n2024 BY AIC \nRAISE",
+        "venue": "AIC RAISE",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DHARANI.R",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON \n2024 BY AIC \nRAISE",
+        "venue": "AIC RAISE",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "AKASHAYA.E",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON \n2024 BY AIC \nRAISE",
+        "venue": "AIC RAISE",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SNOWIN J",
+        "title": "CODE LEAGUE",
+        "event": "IRISH- 2K23",
+        "venue": "P.A COLLEGE OF \nENGINEERING AND \nTECHNOLOGY - COIMBATORE",
+        "date": "16-06-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SREE MATHI R",
+        "title": "CODE LEAGUE",
+        "event": "IRISH- 2K23",
+        "venue": "P.A COLLEGE OF",
+        "date": "16-06-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "VIKRAM S",
+        "title": "WORKSHOP",
+        "event": "CRYPTERA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "02-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SHAKTHIPRIYA S",
+        "title": "PAPER \nPRESENTATION",
+        "event": "CRYPTERA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "02-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PULI SRI HARI",
+        "title": "WORKSHOP",
+        "event": "CRYPTERA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "02-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "UNAIS AHAMED",
+        "title": "WORKSHOP",
+        "event": "CRYPTERA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "02-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SOUMIYA RAJ",
+        "title": "CODE BOAT",
+        "event": "TECHNOFEST 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "22-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PATANDAWOOD KHAN",
+        "title": "CODE BOAT",
+        "event": "TECHNOFEST 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "22-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "VINISHA M",
+        "title": "CODE BOAT",
+        "event": "TECHNOFEST 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "22-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "VIJAY ANANDH S",
+        "title": "PAPERPULSE",
+        "event": "EPOCH 2024",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "15-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ROHINI PRIYA P",
+        "title": "YOUNG INDIA \nHACKATHON (2023)",
+        "event": "YOUNG INDIA \nHACKATHON \n(2023)",
+        "venue": "KGISL",
+        "date": "13.11.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "VERONIK \nA K S",
+        "title": "YOUNG INDIA \nHACKATHON (2023)",
+        "event": "YOUNG INDIA \nHACKATHON \n(2023)",
+        "venue": "KGISL",
+        "date": "13.11.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "THILLAI GOWRI",
+        "title": "YOUNG INDIA \nHACKATHON (2023)",
+        "event": "YOUNG INDIA \nHACKATHON \n(2023)",
+        "venue": "KGISL",
+        "date": "13.11.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SHARVESH R M",
+        "title": "PAPER SCRIPTUM",
+        "event": "DESIGNZIA 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "GHANTTASALA BHANU PRASAD",
+        "title": "PAPER SCRIPTUM",
+        "event": "DESIGNZIA 24",
+        "venue": "ERODE \nSENGUNTHAR COLLEGE \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JAYA PRAKASH S",
+        "title": "TECHNICAL QUIZ, \nORGANIZED BY \nDEPT OF COMPUTER \nSCIENCE",
+        "event": "TECHNICAL \nQUIZ, \nORGANIZED BY \nDEPT OF \nCOMPUTER SCIENCE",
+        "venue": "KRISHNA ARTS AND \nSCIENCE COLLEGE - COIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JOSHUA J",
+        "title": "TECHNICAL QUIZ, \nORGANIZED BY \nDEPT OF COMPUTER \nSCIENCE",
+        "event": "TECHNICAL \nQUIZ, \nORGANIZED BY \nDEPT OF \nCOMPUTER \nSCIENCE",
+        "venue": "KRISHNA ARTS AND \nSCIENCE COLLEGE - COIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PADMASREE S",
+        "title": "CODING",
+        "event": "CYNOSURE 2K24",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NAVIN STYRIS A",
+        "title": "CODING",
+        "event": "CYNOSURE 2K24",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - ERODE",
+        "date": "23-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NISHA S",
+        "title": "CODE COMBAT, \nORGANIZED BY CSI \nKEC STUDENT \nBRANCH",
+        "event": "CODE COMBAT, \nORGANIZED BY \nCSI KEC \nSTUDENT BRANCH",
+        "venue": "KONGU \nENGINEERING \nCOLLEGE - COIMBATORE",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "LATHIKA K",
+        "title": "CODE COMBAT, \nORGANIZED BY CSI KEC STUDENT",
+        "event": "CODE COMBAT, \nORGANIZED BY CSI KEC",
+        "venue": "KONGU \nENGINEERING COLLEGE -",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SARAVANAN K",
+        "title": "REVERSE CODING",
+        "event": "HECURA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ARUN S",
+        "title": "REVERSE CODING",
+        "event": "HECURA 2024",
+        "venue": "COIMBATORE INSTITUTE OF \nTECHNOLOGY - \nCOIMBARTORE",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MITHUN RAJ M",
+        "title": "PROJECT EXPO \nORGANIZED BY \nDEPT OF \nMECHATRONICS \nENGG",
+        "event": "PROJECT EXPO \nORGANIZED BY \nDEPT OF \nMECHATRONICS \nENGG",
+        "venue": "THIAGARAJAR \nCOLLEGE OF \nENGINEERING - MADURAI",
+        "date": "14.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "CHINTHALAPALLI \nKIRAN KUMAR \nREDDY",
+        "title": "PAPER’NZA",
+        "event": "CBEYONZ’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "15-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "AGARSHANA S",
+        "title": "PAPER’NZA",
+        "event": "CBEYONZ’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "15-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIHARAN N",
+        "title": "PAPER’NZA",
+        "event": "CBEYONZ’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "15-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KISHORE P",
+        "title": "PAPER \nPRESENTATION",
+        "event": "INFEST 2K24",
+        "venue": "INFO INSTITUTE OF ENGINEERING - \nCOIMBATORE",
+        "date": "23-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ISWARYA K",
+        "title": "DEBUGGING",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE \nOF ENGINEERING \nAND TECHNOLOGY \n- COIMBATORE",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "RAMMOHAN P",
+        "title": "DEBUGGING",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE \nOF ENGINEERING \nAND TECHNOLOGY \n- COIMBATORE",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHICK S",
+        "title": "EDII’S HACKATHON 2024 BY EDII-TN",
+        "event": "EDII’S \nHACKATHON \n2024 BY EDII-TN",
+        "venue": "EDII-TN",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KISHORE R",
+        "title": "EDII’S HACKATHON 2024 BY EDII-TN",
+        "event": "EDII’S \nHACKATHON \n2024 BY EDII-TN",
+        "venue": "EDII-TN",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JAGAN A",
+        "title": "EDII’S HACKATHON 2024 BY EDII-TN",
+        "event": "EDII’S \nHACKATHON \n2024 BY EDII-TN",
+        "venue": "EDII-TN",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NADISH K S",
+        "title": "TECHNICAL DEBATE",
+        "event": "TECHFEST 2K24",
+        "venue": "NEHRU INSTITUTE \nOF ENGINEERING \nAND TECHNOLOGY \n- COIMBATORE",
+        "date": "16-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MADHUMITHA P",
+        "title": "TECHNICAL DEBATE",
+        "event": "TECHFEST 2K24",
+        "venue": "NEHRU INSTITUTE \nOF ENGINEERING \nAND TECHNOLOGY - COIMBATORE",
+        "date": "16-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NAVEEN R",
+        "title": "TECHNICAL DEBATE",
+        "event": "TECHFEST 2K24",
+        "venue": "NEHRU INSTITUTE \nOF ENGINEERING \nAND \n67TECHNOLOGY – CO68IMBATORE",
+        "date": "16-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVSITH RAJA K",
+        "title": ", ORGANIZED \nTECHNICAL EVENTS BY DEPT OF CSE",
+        "event": "TECHNICAL EVENTS, \nORGANIZED BY DEPT OF CSE",
+        "venue": "COIMBATORE \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "02.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KRISHNA \nPRABHU E",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY DEPT OF CSE",
+        "event": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF CSE",
+        "venue": "COIMBATORE \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "02.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JEEVITHKARAN D",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF CSE",
+        "event": "TECHNICAL \nEVENTS, \nORGANIZED BY \nDEPT OF CSE",
+        "venue": "COIMBATORE \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "02.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SARAVANAN K",
+        "title": "WEB DESIGNING",
+        "event": "TECHSPARK 2K24",
+        "venue": "ERODE \nSENGUNTHAR\nENGINEERING \nCOLLEGE - ERODE",
+        "date": "22-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MOHAMED RIYAS \nS",
+        "title": "PAPER \nPRESENTATION",
+        "event": "V-PRAYUKTI’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "27-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SWETHA P",
+        "title": "PAPER \nPRESENTATION",
+        "event": "V-PRAYUKTI’24",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "27-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MITHUN RAJ",
+        "title": "PROJECT EMPORIUM \nORGANIZED BY \nDEPT OF AI & ML",
+        "event": "PROJECT \nEMPORIUM \nORGANIZED BY \nDEPT OF AI & ML",
+        "venue": "BANNARI AMMAN \nINSTITUTE OF \nTECHNOLOGY - \nERODE",
+        "date": "7.03.2024 & \n08.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MOHAMED HALIF \nA",
+        "title": "NINJA CODING, LETS' \nC,LANGUAGE GEEK \n& LEARN CODE \nUNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "event": "NINJA CODING, \nLETS' \nC,LANGUAGE \nGEEK & LEARN \nCODE UNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "venue": "Madras Institute of Technology",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KOUSIKA S",
+        "title": "NINJA CODING, LETS' \nC,LANGUAGE GEEK \n& LEARN CODE \nUNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "event": "NINJA CODING, \nLETS' \nC,LANGUAGE \nGEEK & LEARN \nCODE UNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "venue": "MADRAS INSTITUTE \nOF TECHNOLOGY - CHENNAI",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MADAN PRASATH \nS",
+        "title": "NINJA CODING, LETS' \nC,LANGUAGE GEEK \n& LEARN CODE \nUNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "event": "NINJA CODING, \nLETS' \nC,LANGUAGE \nGEEK & LEARN \nCODE UNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "venue": "MADRAS INSTITUTE \nOF TECHNOLOGY - CHENNAI",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIPRASAD R S",
+        "title": "NINJA CODING, LETS' \nC,LANGUAGE GEEK \n& LEARN CODE \nUNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "event": "NINJA CODING, \nLETS' \nC,LANGUAGE \nGEEK & LEARN \nCODE UNLEASH, \nORGANIZED BY \nINFORMATION \nTECHNOLOGY \nASSOCIATION",
+        "venue": "MADRAS INSTITUTE \nOF TECHNOLOGY - CHENNAI",
+        "date": "16.03.2024 & \n17.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JAYESH RAM P K",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "event": "TECHNICAL \nEVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "venue": "NEHRU INSTITUTE \nOF TECHNOLOGY – COIMBATORE",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PRAVEEN S",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "event": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "venue": "NEHRU INSTITUTE \nOF TECHNOLOGY – COIMBATORE",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MOHAMED IRFAN \nM",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "event": "TECHNICAL \nEVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "venue": "NEHRU INSTITUTE \nOF TECHNOLOGY – COIMBATORE",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PRAGIN BARATH \nM",
+        "title": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "event": "TECHNICAL EVENTS, \nORGANIZED BY \nDEPT OF IT",
+        "venue": "NEHRU INSTITUTE \nOF TECHNOLOGY – COIMBATORE",
+        "date": "15.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAMALESHWARI \nR",
+        "title": "NCIIPC-AICTE \nPENTATHON 2024",
+        "event": "NCIIPC-AICTE \nPENTATHON 2024",
+        "venue": "ST. JOSEPH’S \nCOLLEGE OF \nENGINEERING - CHENNAI",
+        "date": "4.2.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIC S",
+        "title": "NCIIPC-AICTE PENTATHON 2024",
+        "event": "NCIIPC-AICTE \nPENTATHON 2024",
+        "venue": "ST. JOSEPH’S \nCOLLEGE OF \nENGINEERING - CHENNAI",
+        "date": "4.2.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIHARAN N",
+        "title": "DEBUGGING",
+        "event": "QUANTAS-24",
+        "venue": "VINAYAKA MISSION’S \nKIRUPANANDA \nVARIYAR \nENGINEERING \nCOLLEGE -SALEM",
+        "date": "03-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABISHEIK G",
+        "title": "PROJECT",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JEYASUBA M",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "DR.N.G.P. \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KALAIVANI C",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "DR.N.G.P. \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAMALI SRI",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "DR.N.G.P. \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NIVITHA Y",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "DR.N.G.P. \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PRINCELA R",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHNICAL EVENTS",
+        "venue": "DR.N.G.P. \nINSTITUTE OF \nTECHNOLOGY - \nCOIMBATORE",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIN C",
+        "title": "PAPER \nPRESENTATION",
+        "event": "CELESTIX 2024",
+        "venue": "VALALAR  COLLEG E PF ENGINEERING \nAND TECHNOLOGY \n- ERODE",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAMARAJ N",
+        "title": "PAPER \nPRESENTATION",
+        "event": "CELESTIX 2024",
+        "venue": "VALALAR  COLLEG E PF ENGINEERING \nAND TECHNOLOGY \n- ERODE",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "LEELA CRISTY",
+        "title": "PAPER PRESENTATION",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "3 NAVEEN A",
+        "title": "PAPER \nPRESENTATION",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "RISHI BALA M",
+        "title": "PAPER \nPRESENTATION",
+        "event": "GUSTO 2024",
+        "venue": "GOVERNMENT \nCOLLEGE OF \nENGINEERING - ERODE",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABDUL KALAM N",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABHILASH S",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABIJITH C P",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABIJITH K",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ABINESH P",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ADHEEP DAS",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ADHIL J",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DHINESH D",
+        "title": "TECHNICAL EVENTS",
+        "event": "INTRA 2K23",
+        "venue": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+        "date": "21.09.2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ADIL ABDUL NASSAR",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-2023",
+        "venue": "SRI EESHWAR COLLEGE \nOF ENGINEERING - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ANBURAJ G",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-2023",
+        "venue": "SRI EESHWAR COLLEGE \nOF ENGINEERING - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ANITHA V",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-2023",
+        "venue": "SRI EESHWAR COLLEGE \nOF ENGINEERING - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ASHAK MS",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-2023",
+        "venue": "SRI EESHWAR COLLEGE \nOF ENGINEERING - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "AYESETTY MOHANA SAI \nSREE HARIKA",
+        "title": "WORKSHOP",
+        "event": "TECHNOVISTA-2023",
+        "venue": "SRI EESHWAR COLLEGE \nOF ENGINEERING - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "GOSU VAMSHI",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "GURUPRASATH A",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARI HARAN S",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIHARAN K",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISANKAR A",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISARAN V",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISH KEERTHI V",
+        "title": "TECHNICAL QUIZ",
+        "event": "TECHNOVISTA 2023",
+        "venue": "SRI ESHWAR COLLEGE OF ENGINEERING - CHENNAI",
+        "date": "08-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "BANDI VENKA REDDY",
+        "title": "TECHNICAL SYMPOSIUM",
+        "event": "HECURA 2K24",
+        "venue": "COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "BIRUNDHADEVI R",
+        "title": "TECHNICAL SYMPOSIUM",
+        "event": "HECURA 2K24",
+        "venue": "COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "BOPPANA PRAVALLIKA",
+        "title": "TECHNICAL SYMPOSIUM",
+        "event": "HECURA 2K24",
+        "venue": "COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DEEPTHI S",
+        "title": "TECHNICAL SYMPOSIUM",
+        "event": "HECURA 2K24",
+        "venue": "COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DHANASEKAR M",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "NAVEEN NV",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DHIBINESH P D",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ELAMPARITHI K",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "GANDIKOTA YESU PRASAD",
+        "title": "PPT PRESENTATION",
+        "event": "IGNITE-2023",
+        "venue": "SRI RAMAKRISHNA \nINSTITUTE OF \nTECHNOLOGY - COIMBATORE",
+        "date": "07-11-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DILSHAD P",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON 2024 BY AIC RAISE",
+        "venue": "RATHINAM INSTITUTIONS",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DINESH L",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON 2024 BY AIC RAISE",
+        "venue": "RATHINAM INSTITUTIONS",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DINESH M",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON 2024 BY AIC RAISE",
+        "venue": "RATHINAM INSTITUTIONS",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DINESHKUMAR M",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON 2024 BY AIC RAISE",
+        "venue": "RATHINAM INSTITUTIONS",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "DURAI R",
+        "title": "RAISEATHON 2024 BY AIC RAISE",
+        "event": "RAISEATHON 2024 BY AIC RAISE",
+        "venue": "RATHINAM INSTITUTIONS",
+        "date": "16.3.24 -\n17.3.26",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISH S",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "KARPAGAM COLLEGE OF ENGINEERING",
+        "date": "22-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "ILANTHIRAYAN G",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "KARPAGAM COLLEGE OF ENGINEERING",
+        "date": "22-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "IMAYASRI A",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "KARPAGAM COLLEGE OF ENGINEERING",
+        "date": "22-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "LOKESH V",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "P.A. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JANATH NIKASH K",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "P.A. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JITHIN L",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "P.A. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KABILESH R",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "P.A. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAMALESHWARI \nR",
+        "title": "PROJECT EXPO",
+        "event": "TECHNICAL SYMPOSIUM",
+        "venue": "P.A. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-05-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIC V",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MAHESH S",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIK SUJITH",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIKEYAN M",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KATHIRVEL R",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIN KUMAR P",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIYASRI J",
+        "title": "TECHNICAL EVENT",
+        "event": "TEKOZURA 2K23",
+        "venue": "DR.N.G.P. COLLEGE OF EDUCATION",
+        "date": "24-8-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "GURUMOORTHY \nM S",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARI HARA SUDHAN R",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARI KRISHNA.A",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARI \nSARAVANAN S",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIDHAARAN D",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIKRISHNAN N",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARINI D",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARINI K",
+        "title": "CODING",
+        "event": "MXCEL 2K23",
+        "venue": "KONGU ENGINEERING COLLEGE - ERODE",
+        "date": "11-10-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARIPRASAD R S",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISH.B",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISH J",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARISH P",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HARSHA VARDHINI. M",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "HEMANTH YASH \n.R",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "IRULAPPER A.R",
+        "title": "TECHNICAL QUIZ",
+        "event": "PRANAYA 2K23",
+        "venue": "KARPAGAM ACADEMY OF HIGHER EDUCATION",
+        "date": "24-02-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JAYA PRAKASH. S",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "RAMYA P",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JEEVANANTHAM \nR",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "JEEVITHKARAN.D",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "VISWA R",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "SACHIN R",
+        "title": "TECHNICAL QUIZ",
+        "event": "FORSCH 2K23",
+        "venue": "ANNA UNIVERSITY  REGIONAL CAMPUS - COIMBATORE",
+        "date": "09-09-2023",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAMALI SRI.M",
+        "title": "CODING",
+        "event": "CELESTIX 2024",
+        "venue": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHICK RAJA \nL",
+        "title": "CODING",
+        "event": "CELESTIX 2024",
+        "venue": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KARTHIKEYAN P",
+        "title": "CODING",
+        "event": "CELESTIX 2024",
+        "venue": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIARASAN D",
+        "title": "CODING",
+        "event": "CELESTIX 2024",
+        "venue": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "05-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVIN PRASANTH \n. A",
+        "title": "DEBUGGING",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVI SREE",
+        "title": "DEBUGGING",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVUSITH RAJA.K",
+        "title": "DEBUGGING",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KAVYA. S",
+        "title": "TECHNICAL QUIZ",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KEERTHICK ROSAN J",
+        "title": "TECHNICAL QUIZ",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KENISH K",
+        "title": "TECHNICAL QUIZ",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KIRUBHAKARAN. \nC",
+        "title": "PAPER PRESENTATION",
+        "event": "CRYOSAT ‘23",
+        "venue": "NANDHA EDUCATIONAL INSTITUTIONS",
+        "date": "04.03.2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KOUSHIK",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KOUSIKA S",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KOWSHIK P",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "KRISHNA PRABHU.E",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "LATHIKA.K",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "LOKESH.M",
+        "title": "TECHNICAL EVENTS",
+        "event": "TECHFEST 2024",
+        "venue": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "date": "28-03-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "M. MADHAN",
+        "title": "TECHNICAL EVENTS",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "PAVITHRA.M",
+        "title": "TECHNICAL EVENT",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MADHANKUMAR \nR",
+        "title": "TECHNICAL EVENT",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MADHANKUMAR.\nS",
+        "title": "TECHNICAL EVENT",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MAHESHPRAVEE\nN. E",
+        "title": "TECHNICAL EVENT",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MANIKANDAN S",
+        "title": "TECHNICAL EVENT",
+        "event": "KALAM 2024",
+        "venue": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "date": "26-04-2024 –\n27-04-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MEERADHARSHIN\nI.S",
+        "title": "TECHNICAL EVENT",
+        "event": "PORT’ 24",
+        "venue": "SONA COLLEGE OF TECHNOLOGY",
+        "date": "23-02-2024-\n24-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MIRNALI.K",
+        "title": "TECHNICAL EVENT",
+        "event": "PORT’ 24",
+        "venue": "SONA COLLEGE OF TECHNOLOGY",
+        "date": "23-02-2024-\n24-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MITHUNRAJ. M",
+        "title": "TECHNICAL EVENT",
+        "event": "PORT’ 24",
+        "venue": "SONA COLLEGE OF TECHNOLOGY",
+        "date": "23-02-2024-\n24-02-2024",
+        "participation": "PARTICIPATION"
+      },
+      {
+        "name": "MOHAMMED \nJASEEL.AK",
+        "title": "TECHNICAL EVENT",
+        "event": "PORT’ 24",
+        "venue": "SONA COLLEGE OF TECHNOLOGY",
+        "date": "23-02-2024-\n24-02-2024",
+        "participation": "PARTICIPATION"
+      }
+    ]
+  }
+]

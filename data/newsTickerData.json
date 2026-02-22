@@ -1,0 +1,54 @@
+{
+  "newsTicker": {
+    "settings": {
+      "speed": 60,
+      "pauseOnHover": true,
+      "showControls": false,
+      "autoHide": true
+    },
+    "newsItems": [
+      {
+        "id": 1,
+        "text": "Hearty congratulations to SHAKTHI SIDHAARTH K R for securing a prestigious offer from M/s Juspay with an outstanding annual package of ₹27 LPA!",
+        "type": "achievement",
+        "url": "/department/cse",
+        "isActive": true
+      },
+      {
+        "id": 2,
+        "text": "Smart India Hackathon 2025 - Team Honesters wins 2nd Runner Up Award! Congratulations to Hirthik Varma and team for their innovative Smart Curriculum Activity & Attendance App",
+        "type": "achievement",
+        "url": "/department/cse",
+        "isActive": true
+      },
+      {
+        "id": 3,
+        "text": "Smart India Hackathon 2025 - Tech_Wizards team qualifies as Finalists! Swetha S leads the team with innovative solutions",
+        "type": "achievement",
+        "url": "/department/cse",
+        "isActive": true
+      },
+      {
+        "id": 4,
+        "text": "Hindusthan Institute of Technology selected to establish StartupTN Pre-Incubation Centre (PIC) - Sanction order of Rs. 7,50,000 presented by Hon'ble Deputy CM",
+        "type": "achievement",
+        "url": "/department/cse",
+        "isActive": true
+      },
+      {
+        "id": 5,
+        "text": "Faculty participates in International Conference on Transforming Engineering Systems for Sustainability 2023 in Malaysia",
+        "type": "achievement",
+        "url": "/department/cse",
+        "isActive": true
+      },
+      {
+        "id": 6,
+        "text": "TechFest 2025, March 15-17, 2025. Register now for technical competitions and workshops",
+        "type": "event",
+        "url": "/events/techfest-2024",
+        "isActive": true
+      }
+    ]
+  }
+}

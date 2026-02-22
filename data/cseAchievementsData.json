@@ -1,0 +1,229 @@
+{
+  "teams": [
+    {
+      "teamId": 0,
+      "teamName": "Juspay Placement Achievement",
+      "award": "₹27 LPA Package",
+      "achievements": [
+        {
+          "id": 0,
+          "title": "SHAKTHI SIDHAARTH K R - Juspay Placement - ₹27 LPA",
+          "image": "/images-achievements/placed.jpeg"
+        }
+      ],
+      "problemStatement": "Congratulations to SHAKTHI SIDHAARTH K R for securing a prestigious offer from M/s Juspay with an outstanding annual package of ₹27 LPA! 💼✨ Your dedication, talent, and hard work have truly paid off. Wishing you continued success and many more milestones ahead!",
+      "teamMembers": [
+        {
+          "name": "SHAKTHI SIDHAARTH K R",
+          "rollNo": "-",
+          "year": "-",
+          "semester": "-",
+          "batch": "2025-2026"
+        }
+      ]
+    },
+    {
+      "teamId": 1,
+      "teamName": "Team 1",
+      "award": "2nd Runner Up",
+      "achievements": [
+        {
+          "id": 1,
+          "title": "Smart India Hackathon 2025-Finals",
+          "image": "/images-achievements/SIH - Team1.jpeg"
+        },
+        {
+          "id": 2,
+          "title": "Smart India Hackathon 2025 - Team Photos",
+          "image": "/images-achievements/SIH -Team1(2).jpeg"
+        },
+        {
+          "id": 3,
+          "title": "Smart India Hackathon 2025 - Presentation",
+          "image": "/images-achievements/SIH -Team1(3).jpeg"
+        },
+        {
+          "id": 4,
+          "title": "Smart India Hackathon 2025-Finals - Award Ceremony",
+          "image": "/images-achievements/SIH -Team1(4).jpg"
+        }
+      ],
+      "problemStatement": "The Smart Curriculum Activity & Attendance App addresses the inefficiencies of manual attendance systems and unproductive use of student free time. It automates attendance using QR codes, Bluetooth/Wi-Fi, or face recognition, reducing classroom time loss and errors.",
+      "teamMembers": [
+        {
+          "name": "Hirthik Varma",
+          "rollNo": "720824103065",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        },
+        {
+          "name": "Sujith V",
+          "rollNo": "720824103066",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        },
+        {
+          "name": "Rithika M",
+          "rollNo": "720824103067",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        },
+        {
+          "name": "Tharshini TJ",
+          "rollNo": "720824103068",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        },
+        {
+          "name": "Swathi R",
+          "rollNo": "720824103069",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        },
+        {
+          "name": "Raguraman J",
+          "rollNo": "720824103070",
+          "year": "2nd Year",
+          "semester": "4th Sem",
+          "batch": "2024-2028"
+        }
+      ]
+    },
+    {
+      "teamId": 2,
+      "teamName": "Tech_Wizards",
+      "award": "Finalist - Smart India Hackathon 2025",
+      "achievements": [
+        {
+          "id": 5,
+          "title": "Smart India Hackathon 2025 - Tech_Wizards Team",
+          "image": "/images-achievements/SIH -Team2.jpeg"
+        },
+        {
+          "id": 6,
+          "title": "Smart India Hackathon 2025 - Tech_Wizards Presentation",
+          "image": "/images-achievements/SIH -Team2(2).jpeg"
+        },
+        {
+          "id": 7,
+          "title": "Smart India Hackathon 2025 - Tech_Wizards Demo",
+          "image": "/images-achievements/SIH -Team2(3).jpeg"
+        },
+        {
+          "id": 8,
+          "title": "Smart India Hackathon 2025 - Tech_Wizards Award",
+          "image": "/images-achievements/SIH -Team2(4).jpeg"
+        }
+      ],
+      "problemStatement": "Team Tech_Wizards from Hindusthan Institute of Technology (AISHE Code: C-37046) participated in Smart India Hackathon 2025. Team ID: 77725, Idea ID: 72111, PS ID: SIH25138. The team developed innovative solutions addressing real-world challenges.",
+      "teamMembers": [
+        {
+          "name": "Swetha S (Team Leader)",
+          "rollNo": "720823103163",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        },
+        {
+          "name": "Vasu P",
+          "rollNo": "720823103171",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        },
+        {
+          "name": "Vijayakumar G",
+          "rollNo": "720823103173",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        },
+        {
+          "name": "Sham S",
+          "rollNo": "720823103149",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        },
+        {
+          "name": "Sakthivel S",
+          "rollNo": "720823103134",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        },
+        {
+          "name": "Yogeshwari S",
+          "rollNo": "720823103183",
+          "year": "3rd Year",
+          "semester": "5th Sem",
+          "batch": "2023-2027"
+        }
+      ]
+    },
+    {
+      "teamId": 3,
+      "teamName": "StartupTN PIC",
+      "award": "Pre-Incubation Centre",
+      "achievements": [
+        {
+          "id": 9,
+          "title": "StartupTN Pre-Incubation Centre Announcement",
+          "image": "/images-achievements/hod.png"
+        }
+      ],
+      "problemStatement": "Hindusthan Institute of Technology selected to establish a StartupTN Pre-Incubation Centre (PIC). The official announcement was made at the 'Startup Chennai - Seiga Pudhumai' event held at IITM Research Park, Chennai. The sanction order (Rs. 7,50,000) was presented by the Hon'ble Deputy Chief Minister of Tamil Nadu, Thiru. Udhayanidhi Stalin.",
+      "teamMembers": [
+        {
+          "name": "Department Initiative",
+          "rollNo": "-",
+          "year": "-",
+          "semester": "-",
+          "batch": "2024-2025"
+        }
+      ]
+    },
+    {
+      "teamId": 4,
+      "teamName": "International Conference Malaysia 2023",
+      "award": "Conference Participation",
+      "achievements": [
+        {
+          "id": 10,
+          "title": "International Conference on Transforming Engineering Systems for Sustainability 2023 - Malaysia",
+          "image": "/images-achievements/Malasiya(1).jpg"
+        },
+        {
+          "id": 11,
+          "title": "International Conference on Transforming Engineering Systems for Sustainability 2023 - Presentation",
+          "image": "/images-achievements/Malasiya(2).jpg"
+        },
+        {
+          "id": 12,
+          "title": "International Conference on Transforming Engineering Systems for Sustainability 2023 - Team Photo",
+          "image": "/images-achievements/Malasiya(3).jpg"
+        },
+        {
+          "id": 13,
+          "title": "International Conference on Transforming Engineering Systems for Sustainability 2023 - Group",
+          "image": "/images-achievements/Malasiya(4).jpg"
+        }
+      ],
+      "problemStatement": "Participated in the International Conference on Transforming Engineering Systems for Sustainability held in Malaysia, 2023. The conference focused on innovative engineering solutions for sustainable development and environmental conservation.",
+      "teamMembers": [
+        {
+          "name": "Faculty Representatives",
+          "rollNo": "-",
+          "year": "-",
+          "semester": "-",
+          "batch": "2023"
+        }
+      ]
+    }
+  ]
+}

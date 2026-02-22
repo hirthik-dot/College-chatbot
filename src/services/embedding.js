@@ -1,40 +1,44 @@
-import { HfInference } from '@huggingface/inference';
 import 'dotenv/config';
 
 // The model we want to use for generating embeddings
-// "sentence-transformers/all-MiniLM-L6-v2" generates 384-dimensional embeddings
 const MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2';
-
-let hf;
-
-if (process.env.HUGGINGFACE_API_KEY) {
-    hf = new HfInference(process.env.HUGGINGFACE_API_KEY);
-} else {
-    console.warn('WARNING: HUGGINGFACE_API_KEY is not set in environment variables.');
-}
+const HF_URL = `https://router.huggingface.co/hf-inference/models/${MODEL_NAME}`;
 
 /**
- * Generate embeddings for a list of texts using HuggingFace Inference API.
- * This is memory efficient because the model runs remotely on HuggingFace servers.
+ * Generate embeddings for a list of texts using HuggingFace Inference API via native fetch.
+ * This circumvents the deprecated URL issue in older SDK versions.
  * @param {string[]} texts - Array of strings to embed.
  * @returns {Promise<number[][]>} - Array of embeddings (arrays of numbers).
  */
 export async function getEmbeddings(texts) {
-    if (!hf) {
+    if (!process.env.HUGGINGFACE_API_KEY) {
         throw new Error('HF Inference client not initialized. Check your HUGGINGFACE_API_KEY.');
     }
 
     try {
-        const output = await hf.featureExtraction({
-            model: MODEL_NAME,
-            inputs: texts,
+        const response = await fetch(HF_URL, {
+            method: 'POST',
+            headers: {
+                'Authorization': `Bearer ${process.env.HUGGINGFACE_API_KEY}`,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                inputs: texts,
+                options: { wait_for_model: true }
+            })
         });
 
+        if (!response.ok) {
+            const errorText = await response.text();
+            throw new Error(`HuggingFace API error (${response.status}): ${errorText}`);
+        }
+
+        const output = await response.json();
+
         // The HF text-embedding model returns the embedding directly or inside a nested structure
-        // Depending on the API format, for all-MiniLM-L6-v2 it generally returns a list of embeddings.
         return output;
     } catch (error) {
-        console.error('Failed to generate embeddings via HuggingFace:', error.message);
+        console.error('Failed to generate embeddings via HuggingFace fetch:', error.message);
         throw error;
     }
 }

@@ -87,10 +87,6 @@ function jsonToReadableTextLines(obj, parentKey = "") {
     return lines;
 }
 
-/**
- * Parses JSON file, converts to readable sentences, and groups them 
- * into 300-500 word chunks with a small overlap to preserve context.
- */
 function extractChunksFromJson(filePath) {
     let data;
     try {
@@ -101,41 +97,26 @@ function extractChunksFromJson(filePath) {
         return [];
     }
 
-    const fileName = path.basename(filePath);
-
-    // 1. Convert JSON to readable lines
-    const allLines = jsonToReadableTextLines(data);
-
-    // 2. Tokenize loosely into words to manage chunk size (target: ~350 words, overlap: ~50)
-    const TARGET_WORDS = 350;
-    const OVERLAP_WORDS = 50;
-
     const chunks = [];
-    let currentWords = [];
-    let currentText = '';
 
-    for (let i = 0; i < allLines.length; i++) {
-        const line = allLines[i];
-        const wordsInLine = line.split(/\s+/);
+    // Directly map the website_ai_knowledge schema
+    if (data && Array.isArray(data.pages)) {
+        for (const page of data.pages) {
+            if (!page.content || !Array.isArray(page.content)) continue;
 
-        currentWords.push(...wordsInLine);
-        currentText += line + ' ';
+            for (const section of page.content) {
+                if (!section.text || section.text.trim().length === 0) continue;
 
-        if (currentWords.length >= TARGET_WORDS || i === allLines.length - 1) {
-            // Trim and save chunk
-            const finalChunkText = `[Source File: ${fileName}]\n` + currentText.trim();
-            const sectionLabel = allLines[i].split(':')[0] || fileName; // loose section guess
+                const finalChunkText = `[Source Page: ${page.page}]\n[Section: ${section.section}]\n${section.text.trim()}`;
 
-            chunks.push({
-                text: finalChunkText,
-                metadata: { source: fileName, path: filePath, section: sectionLabel }
-            });
-
-            // Start new chunk, preserving an overlap if there's more text to come
-            if (i < allLines.length - 1) {
-                // Keep the last OVERLAP_WORDS amount of text to feed into the next chunk
-                currentWords = currentWords.slice(currentWords.length - OVERLAP_WORDS);
-                currentText = currentWords.join(' ') + ' ';
+                chunks.push({
+                    text: finalChunkText,
+                    metadata: {
+                        source: page.page,
+                        path: page.url || filePath,
+                        section: section.section
+                    }
+                });
             }
         }
     }
@@ -155,11 +136,12 @@ export async function runIndexer() {
         return;
     }
 
-    const jsonFiles = findJsonFiles(DATA_DIR);
-    if (jsonFiles.length === 0) {
-        console.log('No JSON files found to index.');
+    const aiKnowledgePath = path.join(DATA_DIR, 'website_ai_knowledge.json');
+    if (!fs.existsSync(aiKnowledgePath)) {
+        console.log('No website_ai_knowledge.json found to index.');
         return;
     }
+    const jsonFiles = [aiKnowledgePath];
 
     let totalUpserted = 0;
 

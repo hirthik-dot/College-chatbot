@@ -42,6 +42,9 @@ router.post('/', async (req, res) => {
             });
         }
 
+        console.log('Top retrieved chunks for query:', question);
+        chunksText.forEach((t, i) => console.log(`[${i}] ${t.substring(0, 100)}...`));
+
         // 3. Build prompt
         const contextStr = chunksText.join('\n\n');
         let userMessage = `Context:\n${contextStr}\n\nQuestion:\n${question}`;

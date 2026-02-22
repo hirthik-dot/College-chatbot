@@ -14,16 +14,11 @@ function toReadableLabel(key) {
         .trim();
 }
 
-/**
- * Lossless extraction: Instead of grouping everything by section into massive paragraphs,
- * we create distinct semantic blocks for EVERY item in an array or object.
- */
 function extractLosslessTextBlocks(obj, parentContext = "General Context") {
     let blocks = [];
 
     if (Array.isArray(obj)) {
         obj.forEach((item, index) => {
-            // For arrays, each item is its own distinct entity. Give it a distinct block.
             blocks = blocks.concat(extractLosslessTextBlocks(item, parentContext));
         });
     } else if (typeof obj === 'object' && obj !== null) {
@@ -32,22 +27,31 @@ function extractLosslessTextBlocks(obj, parentContext = "General Context") {
         for (const [key, value] of Object.entries(obj)) {
             const readableKey = toReadableLabel(key);
 
+            // Extract role context from image filenames before skipping them
+            if (key === 'image' && typeof value === 'string') {
+                const imgStr = value.toLowerCase();
+                if (imgStr.includes('hod')) {
+                    textParts.push(`Role / Position: HOD (Head of Department)`);
+                } else if (imgStr.includes('faculty')) {
+                    textParts.push(`Role / Position: Faculty Member`);
+                }
+            }
+
             // Skip structural garbage
             if (key === 'id' || key === 'icon' || key === 'image' || key === 'url' || String(value).startsWith('http') || String(value).startsWith('/')) continue;
 
             if (Array.isArray(value) || (typeof value === 'object' && value !== null)) {
-                // Nested structures get their own blocks with inherited context
                 blocks = blocks.concat(extractLosslessTextBlocks(value, `${parentContext} - ${readableKey}`));
             } else {
                 // Valid primitive
                 if (value && String(value).trim().length > 0) {
-                    textParts.push(`${readableKey}: ${String(value).trim()}`);
+                    // Explicitly prefix with context to avoid floating unanchored data
+                    // e.g., "Recruiters Name: Amazon" instead of just "Name: Amazon"
+                    textParts.push(`${parentContext} ${readableKey}: ${String(value).trim()}`);
                 }
             }
         }
 
-        // If this object had flat keys, it represents a single entity (like a Student, Event, or Faculty member).
-        // Turn this single entity into its own paragraph.
         if (textParts.length > 0) {
             blocks.push({
                 section: parentContext,
@@ -55,11 +59,10 @@ function extractLosslessTextBlocks(obj, parentContext = "General Context") {
             });
         }
     } else {
-        // Flat primitive at top level (e.g. array of strings)
         if (obj && String(obj).trim().length > 0 && !String(obj).startsWith('http')) {
             blocks.push({
                 section: parentContext,
-                text: `${String(obj).trim()}.`
+                text: `${parentContext}: ${String(obj).trim()}.`
             });
         }
     }

@@ -1,7 +1,7 @@
 import 'dotenv/config';
 
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'openai/gpt-oss-120b:free';
+const MODEL = 'arcee-ai/trinity-large-preview:free';
 
 /**
  * Sends a structured prompt to the OpenRouter LLM.

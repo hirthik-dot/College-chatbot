@@ -71,7 +71,11 @@ router.post('/', async (req, res) => {
 
     } catch (error) {
         console.error('Error in /chat route:', error);
-        return res.status(500).json({ error: 'An internal server error occurred while processing your chat request.' });
+        return res.status(500).json({
+            error: 'An internal server error occurred while processing your chat request.',
+            details: error.message,
+            stack: error.stack
+        });
     }
 });
 

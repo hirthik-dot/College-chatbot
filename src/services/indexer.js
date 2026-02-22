@@ -41,8 +41,55 @@ function findJsonFiles(dir, fileList = []) {
 }
 
 /**
- * Flattens nested JSON objects into an array of readable text chunks.
- * Also keeps metadata context.
+ * Helper to convert camelCase/snake_case to readable words
+ */
+function toReadableLabel(key) {
+    if (!key) return '';
+    return key
+        .replace(/([A-Z])/g, ' $1')
+        .replace(/[_-]/g, ' ')
+        .replace(/^./, str => str.toUpperCase())
+        .trim();
+}
+
+/**
+ * Traverses JSON recursively and returns one flat array of readable sentences.
+ */
+function jsonToReadableTextLines(obj, parentKey = "") {
+    let lines = [];
+
+    if (Array.isArray(obj)) {
+        obj.forEach((item) => {
+            lines = lines.concat(jsonToReadableTextLines(item, parentKey));
+        });
+    } else if (typeof obj === 'object' && obj !== null) {
+        for (const [key, value] of Object.entries(obj)) {
+            const readableKey = toReadableLabel(key);
+            const contextPrefix = parentKey ? `${parentKey} ${readableKey}` : readableKey;
+
+            if (typeof value === 'object' && value !== null) {
+                // For sub-objects, append their deeper lines
+                lines = lines.concat(jsonToReadableTextLines(value, contextPrefix));
+            } else {
+                // Primitive value: format into a sentence
+                lines.push(`${contextPrefix}: ${value}.`);
+            }
+        }
+    } else {
+        // Top level primitive
+        if (parentKey) {
+            lines.push(`${parentKey}: ${obj}.`);
+        } else {
+            lines.push(`${obj}.`);
+        }
+    }
+
+    return lines;
+}
+
+/**
+ * Parses JSON file, converts to readable sentences, and groups them 
+ * into 300-500 word chunks with a small overlap to preserve context.
  */
 function extractChunksFromJson(filePath) {
     let data;
@@ -54,51 +101,43 @@ function extractChunksFromJson(filePath) {
         return [];
     }
 
-    const chunks = [];
     const fileName = path.basename(filePath);
 
-    // A helper function to deeply traverse and extract text blocks
-    // For small/simple data structures, we serialize blocks of keys to text
-    function traverse(obj, prefix = '') {
-        if (Array.isArray(obj)) {
-            obj.forEach((item, index) => traverse(item, `${prefix}[${index}]`));
-        } else if (typeof obj === 'object' && obj !== null) {
-            // Chunking strategy: keep objects of textual data together
-            // Limit recursion by stringifying small structures, or deeply traversing large ones.
-            const str = JSON.stringify(obj);
-            if (str.length < 2000) { // arbitrary threshold for token size constraints (~500 tokens)
-                // Format nicely
-                const cleanText = Object.entries(obj)
-                    .map(([k, v]) => `${k}: ${typeof v === 'object' ? JSON.stringify(v) : v}`)
-                    .join('. ');
+    // 1. Convert JSON to readable lines
+    const allLines = jsonToReadableTextLines(data);
 
-                chunks.push({
-                    text: `[File: ${fileName}] Context: ${prefix ? prefix + ' -> ' : ''}${cleanText}`,
-                    metadata: { source: fileName, path: filePath, section: prefix }
-                });
-            } else {
-                // Too big, go deeper
-                for (const [key, value] of Object.entries(obj)) {
-                    traverse(value, prefix ? `${prefix}.${key}` : key);
-                }
-            }
-        } else {
-            // Primitive
+    // 2. Tokenize loosely into words to manage chunk size (target: ~350 words, overlap: ~50)
+    const TARGET_WORDS = 350;
+    const OVERLAP_WORDS = 50;
+
+    const chunks = [];
+    let currentWords = [];
+    let currentText = '';
+
+    for (let i = 0; i < allLines.length; i++) {
+        const line = allLines[i];
+        const wordsInLine = line.split(/\s+/);
+
+        currentWords.push(...wordsInLine);
+        currentText += line + ' ';
+
+        if (currentWords.length >= TARGET_WORDS || i === allLines.length - 1) {
+            // Trim and save chunk
+            const finalChunkText = `[Source File: ${fileName}]\n` + currentText.trim();
+            const sectionLabel = allLines[i].split(':')[0] || fileName; // loose section guess
+
             chunks.push({
-                text: `[File: ${fileName}] ${prefix}: ${obj}`,
-                metadata: { source: fileName, path: filePath, section: prefix }
+                text: finalChunkText,
+                metadata: { source: fileName, path: filePath, section: sectionLabel }
             });
-        }
-    }
 
-    // If the top level is an object or array, traverse
-    if (typeof data === 'object') {
-        traverse(data);
-    } else {
-        chunks.push({
-            text: String(data),
-            metadata: { source: fileName, path: filePath }
-        });
+            // Start new chunk, preserving an overlap if there's more text to come
+            if (i < allLines.length - 1) {
+                // Keep the last OVERLAP_WORDS amount of text to feed into the next chunk
+                currentWords = currentWords.slice(currentWords.length - OVERLAP_WORDS);
+                currentText = currentWords.join(' ') + ' ';
+            }
+        }
     }
 
     return chunks;

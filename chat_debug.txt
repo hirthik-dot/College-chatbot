@@ -1,0 +1,21 @@
+RAW CONTEXT BYPASSED LLM:
+
+[Source Page: Tabs Data]
+[Section: Tabs Data - Tabs]
+Tabs Data - Tabs Name: HOD's Desk.
+
+[Source Page: Cse Achievements Data]
+[Section: Cse Achievements Data - Teams - Achievements]
+Cse Achievements Data - Teams - Achievements Title: StartupTN Pre-Incubation Centre Announcement. Role / Position: HOD (Head of Department).
+
+[Source Page: Departments Data]
+[Section: Departments Data - Departments - Faculty]
+Departments Data - Departments - Faculty Name: Dr. Amit Patel. Departments Data - Departments - Faculty Designation: Professor & Head. Departments Data - Departments - Faculty Specialization: Robotics, Manufacturing Engineering. Departments Data - Departments - Faculty Experience: 16 years. Departments Data - Departments - Faculty Education: Ph.D from IIT Kanpur. Departments Data - Departments - Faculty Email: amit.patel@hit.edu. Departments Data - Departments - Faculty Publications: 42.
+
+[Source Page: Departments Data]
+[Section: Departments Data - Departments - Faculty]
+Departments Data - Departments - Faculty Name: Dr. Amit Patel. Departments Data - Departments - Faculty Designation: Professor & Head. Departments Data - Departments - Faculty Specialization: Robotics, Manufacturing Engineering. Departments Data - Departments - Faculty Experience: 16 years. Departments Data - Departments - Faculty Education: Ph.D from IIT Kanpur. Departments Data - Departments - Faculty Email: amit.patel@hit.edu. Departments Data - Departments - Faculty Publications: 42.
+
+[Source Page: Departments Data]
+[Section: Departments Data - Departments - Faculty]
+Departments Data - Departments - Faculty Name: Dr. Priya Sharma. Departments Data - Departments - Faculty Designation: Professor & Head. Departments Data - Departments - Faculty Specialization: VLSI Design, Digital Signal Processing. Departments Data - Departments - Faculty Experience: 15 years. Departments Data - Departments - Faculty Education: Ph.D from IIT Madras. Departments Data - Departments - Faculty Email: priya.sharma@hit.edu. Departments Data - Departments - Faculty Publications: 38.

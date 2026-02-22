@@ -2,7 +2,7 @@ import 'dotenv/config';
 
 // The model we want to use for generating embeddings
 const MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2';
-const HF_URL = `https://router.huggingface.co/hf-inference/models/${MODEL_NAME}`;
+const HF_URL = `https://router.huggingface.co/hf-inference/pipeline/feature-extraction/${MODEL_NAME}`;
 
 /**
  * Generate embeddings for a list of texts using HuggingFace Inference API via native fetch.
